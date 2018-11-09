@@ -1,9 +1,9 @@
 import string
 import langid
 
-cleaned = open("data/climate_tweets_cleaned.txt", "w+")
+cleaned = open("data/MarchForScience_tweets_cleaned.txt", "w+")
 
-with open('data/climate_tweets.txt', 'r+') as f:
+with open('data/MarchForScience_tweets.txt', 'r+') as f:
     for line in f.readlines():
     	if langid.classify(line)[0] != 'en':
     		continue
