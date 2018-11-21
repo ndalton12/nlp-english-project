@@ -1,0 +1,739 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>21/11/2018</lastmodified>
+    </meta>
+    <nodes>
+      <node id="science" label="science" />
+      <node id="fear" label="fear" />
+      <node id="climate" label="climate" />
+      <node id="liberty" label="liberty" />
+      <node id="justice" label="justice" />
+      <node id="culture" label="culture" />
+      <node id="money" label="money" />
+      <node id="environment" label="environment" />
+      <node id="freedom" label="freedom" />
+      <node id="people" label="people" />
+      <node id="change" label="change" />
+      <node id="scientist" label="scientist" />
+      <node id="politics" label="politics" />
+      <node id="hero" label="hero" />
+      <node id="story" label="story" />
+      <node id="truth" label="truth" />
+      <node id="lies" label="lies" />
+      <node id="good" label="good" />
+      <node id="bad" label="bad" />
+      <node id="philosophy" label="philosophy" />
+      <node id="intellectual" label="intellectual" />
+      <node id="ethics" label="ethics" />
+      <node id="sciences" label="sciences" />
+      <node id="fiction" label="fiction" />
+      <node id="excellence" label="excellence" />
+      <node id="reflects" label="reflects" />
+      <node id="underlying" label="underlying" />
+      <node id="realm" label="realm" />
+      <node id="philosophical" label="philosophical" />
+      <node id="psychology" label="psychology" />
+      <node id="aesthetic" label="aesthetic" />
+      <node id="Religion" label="Religion" />
+      <node id="criticism" label="criticism" />
+      <node id="adolescent" label="adolescent" />
+      <node id="discipline" label="discipline" />
+      <node id="supernatural" label="supernatural" />
+      <node id="metaphysics" label="metaphysics" />
+      <node id="vitality" label="vitality" />
+      <node id="importance" label="importance" />
+      <node id="suffer" label="suffer" />
+      <node id="humanity" label="humanity" />
+      <node id="blessed" label="blessed" />
+      <node id="insane" label="insane" />
+      <node id="dwell" label="dwell" />
+      <node id="tempted" label="tempted" />
+      <node id="fate" label="fate" />
+      <node id="confusion" label="confusion" />
+      <node id="mortal" label="mortal" />
+      <node id="possibly" label="possibly" />
+      <node id="hopeless" label="hopeless" />
+      <node id="sensed" label="sensed" />
+      <node id="dispelled" label="dispelled" />
+      <node id="negotiate" label="negotiate" />
+      <node id="lose" label="lose" />
+      <node id="badness" label="badness" />
+      <node id="vulnerable" label="vulnerable" />
+      <node id="acknowledge" label="acknowledge" />
+      <node id="creatures" label="creatures" />
+      <node id="remind" label="remind" />
+      <node id="enthusiasm" label="enthusiasm" />
+      <node id="educate" label="educate" />
+      <node id="precious" label="precious" />
+      <node id="helping" label="helping" />
+      <node id="lacked" label="lacked" />
+      <node id="expose" label="expose" />
+      <node id="loyalty" label="loyalty" />
+      <node id="unite" label="unite" />
+      <node id="withdraw" label="withdraw" />
+      <node id="motivation" label="motivation" />
+      <node id="planners" label="planners" />
+      <node id="modest" label="modest" />
+      <node id="realistically" label="realistically" />
+      <node id="disaster" label="disaster" />
+      <node id="enjoyment" label="enjoyment" />
+      <node id="concessions" label="concessions" />
+      <node id="prey" label="prey" />
+      <node id="grips" label="grips" />
+      <node id="exploit" label="exploit" />
+      <node id="sacrifice" label="sacrifice" />
+      <node id="challenge" label="challenge" />
+      <node id="preserve" label="preserve" />
+      <node id="urgent" label="urgent" />
+      <node id="ardent" label="ardent" />
+      <node id="capitalism" label="capitalism" />
+      <node id="heritage" label="heritage" />
+      <node id="brethren" label="brethren" />
+      <node id="democratic" label="democratic" />
+      <node id="hostile" label="hostile" />
+      <node id="Communism" label="Communism" />
+      <node id="trust" label="trust" />
+      <node id="threaten" label="threaten" />
+      <node id="disarmament" label="disarmament" />
+      <node id="intuition" label="intuition" />
+      <node id="arose" label="arose" />
+      <node id="intentions" label="intentions" />
+      <node id="Khrushchev's" label="Khrushchev's" />
+      <node id="treaty" label="treaty" />
+      <node id="civilized" label="civilized" />
+      <node id="intent" label="intent" />
+      <node id="self-determination" label="self-determination" />
+      <node id="Charter" label="Charter" />
+      <node id="enforce" label="enforce" />
+      <node id="agrees" label="agrees" />
+      <node id="Trujillo" label="Trujillo" />
+      <node id="asserted" label="asserted" />
+      <node id="appealed" label="appealed" />
+      <node id="reminds" label="reminds" />
+      <node id="supreme" label="supreme" />
+      <node id="inspired" label="inspired" />
+      <node id="anti-Semitism" label="anti-Semitism" />
+      <node id="civilization" label="civilization" />
+      <node id="nineteenth-century" label="nineteenth-century" />
+      <node id="religions" label="religions" />
+      <node id="twentieth-century" label="twentieth-century" />
+      <node id="traditions" label="traditions" />
+      <node id="secular" label="secular" />
+      <node id="historical" label="historical" />
+      <node id="theological" label="theological" />
+      <node id="monastic" label="monastic" />
+      <node id="emerges" label="emerges" />
+      <node id="revolutionary" label="revolutionary" />
+      <node id="equality" label="equality" />
+      <node id="Christianity" label="Christianity" />
+      <node id="elite" label="elite" />
+      <node id="unity" label="unity" />
+      <node id="paid" label="paid" />
+      <node id="pay" label="pay" />
+      <node id="raise" label="raise" />
+      <node id="bills" label="bills" />
+      <node id="debts" label="debts" />
+      <node id="dollar" label="dollar" />
+      <node id="buy" label="buy" />
+      <node id="hospital" label="hospital" />
+      <node id="worries" label="worries" />
+      <node id="household" label="household" />
+      <node id="spending" label="spending" />
+      <node id="borrow" label="borrow" />
+      <node id="care" label="care" />
+      <node id="collect" label="collect" />
+      <node id="paying" label="paying" />
+      <node id="Stacy" label="Stacy" />
+      <node id="full-time" label="full-time" />
+      <node id="dentist" label="dentist" />
+      <node id="sell" label="sell" />
+      <node id="stay" label="stay" />
+      <node id="logical" label="logical" />
+      <node id="entities" label="entities" />
+      <node id="perceptions" label="perceptions" />
+      <node id="pathological" label="pathological" />
+      <node id="consequently" label="consequently" />
+      <node id="cosmic" label="cosmic" />
+      <node id="stability" label="stability" />
+      <node id="validity" label="validity" />
+      <node id="impersonal" label="impersonal" />
+      <node id="therapeutic" label="therapeutic" />
+      <node id="explore" label="explore" />
+      <node id="everyday" label="everyday" />
+      <node id="cope" label="cope" />
+      <node id="proceed" label="proceed" />
+      <node id="compounded" label="compounded" />
+      <node id="readiness" label="readiness" />
+      <node id="conditioned" label="conditioned" />
+      <node id="comprehension" label="comprehension" />
+      <node id="empirical" label="empirical" />
+      <node id="creates" label="creates" />
+      <node id="struggle" label="struggle" />
+      <node id="customs" label="customs" />
+      <node id="sentiment" label="sentiment" />
+      <node id="wars" label="wars" />
+      <node id="peaceful" label="peaceful" />
+      <node id="prosperity" label="prosperity" />
+      <node id="demands" label="demands" />
+      <node id="pro-Western" label="pro-Western" />
+      <node id="survival" label="survival" />
+      <node id="dedication" label="dedication" />
+      <node id="protest" label="protest" />
+      <node id="genuine" label="genuine" />
+      <node id="Negroes" label="Negroes" />
+      <node id="Americans" label="Americans" />
+      <node id="prefer" label="prefer" />
+      <node id="friendly" label="friendly" />
+      <node id="Southerners" label="Southerners" />
+      <node id="reluctant" label="reluctant" />
+      <node id="eager" label="eager" />
+      <node id="artists" label="artists" />
+      <node id="whites" label="whites" />
+      <node id="horrible" label="horrible" />
+      <node id="intelligent" label="intelligent" />
+      <node id="heroes" label="heroes" />
+      <node id="wanting" label="wanting" />
+      <node id="Christians" label="Christians" />
+      <node id="nations" label="nations" />
+      <node id="differently" label="differently" />
+      <node id="peasants" label="peasants" />
+      <node id="listeners" label="listeners" />
+      <node id="officially" label="officially" />
+      <node id="conclusion" label="conclusion" />
+      <node id="prolonged" label="prolonged" />
+      <node id="abrupt" label="abrupt" />
+      <node id="morphophonemics" label="morphophonemics" />
+      <node id="exposure" label="exposure" />
+      <node id="usefulness" label="usefulness" />
+      <node id="individual's" label="individual's" />
+      <node id="representation" label="representation" />
+      <node id="decay" label="decay" />
+      <node id="weakness" label="weakness" />
+      <node id="unfortunately" label="unfortunately" />
+      <node id="opponent" label="opponent" />
+      <node id="accounting" label="accounting" />
+      <node id="accelerating" label="accelerating" />
+      <node id="attain" label="attain" />
+      <node id="diagnosis" label="diagnosis" />
+      <node id="projection" label="projection" />
+      <node id="vastly" label="vastly" />
+      <node id="conformity" label="conformity" />
+      <node id="tentative" label="tentative" />
+      <node id="dual" label="dual" />
+      <node id="Realtors" label="Realtors" />
+      <node id="1832" label="1832" />
+      <node id="sundry" label="sundry" />
+      <node id="Students" label="Students" />
+      <node id="settings" label="settings" />
+      <node id="initiated" label="initiated" />
+      <node id="Religious" label="Religious" />
+      <node id="recordings" label="recordings" />
+      <node id="statesman" label="statesman" />
+      <node id="strengthened" label="strengthened" />
+      <node id="deficiencies" label="deficiencies" />
+      <node id="esprit" label="esprit" />
+      <node id="diplomats" label="diplomats" />
+      <node id="traditionally" label="traditionally" />
+      <node id="Philosophy" label="Philosophy" />
+      <node id="athletics" label="athletics" />
+      <node id="renaissance" label="renaissance" />
+      <node id="participated" label="participated" />
+      <node id="reviews" label="reviews" />
+      <node id="communism" label="communism" />
+      <node id="Plato's" label="Plato's" />
+      <node id="ideology" label="ideology" />
+      <node id="coexistence" label="coexistence" />
+      <node id="Utopian" label="Utopian" />
+      <node id="liberalism" label="liberalism" />
+      <node id="Whitehead" label="Whitehead" />
+      <node id="relate" label="relate" />
+      <node id="painter" label="painter" />
+      <node id="romantic" label="romantic" />
+      <node id="magnificent" label="magnificent" />
+      <node id="scholar" label="scholar" />
+      <node id="blessing" label="blessing" />
+      <node id="Eve" label="Eve" />
+      <node id="Southerner" label="Southerner" />
+      <node id="resembles" label="resembles" />
+      <node id="genius" label="genius" />
+      <node id="recalls" label="recalls" />
+      <node id="hymn" label="hymn" />
+      <node id="Holmes" label="Holmes" />
+      <node id="Love" label="Love" />
+      <node id="revealing" label="revealing" />
+      <node id="Book" label="Book" />
+      <node id="critic" label="critic" />
+      <node id="Arnolphe" label="Arnolphe" />
+      <node id="Holy" label="Holy" />
+      <node id="fascinating" label="fascinating" />
+      <node id="Utopia" label="Utopia" />
+      <node id="tells" label="tells" />
+      <node id="gift" label="gift" />
+      <node id="Jew" label="Jew" />
+      <node id="writer" label="writer" />
+      <node id="actor" label="actor" />
+      <node id="stories" label="stories" />
+      <node id="habit" label="habit" />
+      <node id="essay" label="essay" />
+      <node id="humor" label="humor" />
+      <node id="irony" label="irony" />
+      <node id="confession" label="confession" />
+      <node id="woman's" label="woman's" />
+      <node id="remarked" label="remarked" />
+      <node id="Herr" label="Herr" />
+      <node id="proud" label="proud" />
+      <node id="Larkin" label="Larkin" />
+      <node id="salvation" label="salvation" />
+      <node id="absurd" label="absurd" />
+      <node id="grace" label="grace" />
+      <node id="deeper" label="deeper" />
+      <node id="sacred" label="sacred" />
+      <node id="mankind" label="mankind" />
+      <node id="humble" label="humble" />
+      <node id="sin" label="sin" />
+      <node id="passion" label="passion" />
+      <node id="convinced" label="convinced" />
+      <node id="understandable" label="understandable" />
+      <node id="contrary" label="contrary" />
+      <node id="certainty" label="certainty" />
+      <node id="implies" label="implies" />
+      <node id="virtue" label="virtue" />
+      <node id="paradox" label="paradox" />
+      <node id="rejects" label="rejects" />
+      <node id="hypothesis" label="hypothesis" />
+      <node id="tendency" label="tendency" />
+      <node id="essence" label="essence" />
+      <node id="Aristotle's" label="Aristotle's" />
+      <node id="moreover" label="moreover" />
+      <node id="ultimately" label="ultimately" />
+      <node id="genuinely" label="genuinely" />
+      <node id="sociology" label="sociology" />
+      <node id="entails" label="entails" />
+      <node id="viewpoint" label="viewpoint" />
+      <node id="render" label="render" />
+      <node id="termination" label="termination" />
+      <node id="tensions" label="tensions" />
+      <node id="Poetics" label="Poetics" />
+      <node id="non-violent" label="non-violent" />
+      <node id="nurse" label="nurse" />
+      <node id="tastes" label="tastes" />
+      <node id="who's" label="who's" />
+      <node id="promising" label="promising" />
+      <node id="Tommy" label="Tommy" />
+      <node id="blend" label="blend" />
+      <node id="supposed" label="supposed" />
+      <node id="joke" label="joke" />
+      <node id="lucky" label="lucky" />
+      <node id="cartoons" label="cartoons" />
+      <node id="Askington" label="Askington" />
+      <node id="promise" label="promise" />
+      <node id="likes" label="likes" />
+      <node id="stubborn" label="stubborn" />
+      <node id="inspiring" label="inspiring" />
+      <node id="hasn't" label="hasn't" />
+      <node id="regret" label="regret" />
+      <node id="hebephrenic" label="hebephrenic" />
+      <node id="pause" label="pause" />
+      <node id="goodness" label="goodness" />
+      <node id="positivist" label="positivist" />
+      <node id="pretend" label="pretend" />
+      <node id="immortal" label="immortal" />
+      <node id="linguist" label="linguist" />
+      <node id="panic" label="panic" />
+      <node id="rabbit" label="rabbit" />
+      <node id="foolish" label="foolish" />
+      <node id="disbelief" label="disbelief" />
+      <node id="Johnnie" label="Johnnie" />
+      <node id="devil" label="devil" />
+      <node id="Jubal" label="Jubal" />
+      <node id="hears" label="hears" />
+      <node id="bothering" label="bothering" />
+      <node id="sitter" label="sitter" />
+      <node id="upset" label="upset" />
+      <node id="sensible" label="sensible" />
+    </nodes>
+    <edges>
+      <edge id="0" source="science" target="philosophy" />
+      <edge id="1" source="science" target="intellectual" />
+      <edge id="2" source="science" target="ethics" />
+      <edge id="3" source="science" target="sciences" />
+      <edge id="4" source="science" target="fiction" />
+      <edge id="5" source="science" target="excellence" />
+      <edge id="6" source="science" target="reflects" />
+      <edge id="7" source="science" target="underlying" />
+      <edge id="8" source="science" target="realm" />
+      <edge id="9" source="science" target="philosophical" />
+      <edge id="10" source="science" target="psychology" />
+      <edge id="11" source="science" target="aesthetic" />
+      <edge id="12" source="science" target="Religion" />
+      <edge id="13" source="science" target="criticism" />
+      <edge id="14" source="science" target="adolescent" />
+      <edge id="15" source="science" target="discipline" />
+      <edge id="16" source="science" target="supernatural" />
+      <edge id="17" source="science" target="metaphysics" />
+      <edge id="18" source="science" target="vitality" />
+      <edge id="19" source="science" target="importance" />
+      <edge id="20" source="fear" target="suffer" />
+      <edge id="21" source="fear" target="humanity" />
+      <edge id="22" source="fear" target="blessed" />
+      <edge id="23" source="fear" target="insane" />
+      <edge id="24" source="fear" target="dwell" />
+      <edge id="25" source="fear" target="tempted" />
+      <edge id="26" source="fear" target="fate" />
+      <edge id="27" source="fear" target="confusion" />
+      <edge id="28" source="fear" target="mortal" />
+      <edge id="29" source="fear" target="possibly" />
+      <edge id="30" source="fear" target="hopeless" />
+      <edge id="31" source="fear" target="sensed" />
+      <edge id="32" source="fear" target="dispelled" />
+      <edge id="33" source="fear" target="negotiate" />
+      <edge id="34" source="fear" target="lose" />
+      <edge id="35" source="fear" target="badness" />
+      <edge id="36" source="fear" target="vulnerable" />
+      <edge id="37" source="fear" target="acknowledge" />
+      <edge id="38" source="fear" target="creatures" />
+      <edge id="39" source="fear" target="remind" />
+      <edge id="40" source="climate" target="enthusiasm" />
+      <edge id="41" source="climate" target="educate" />
+      <edge id="42" source="climate" target="precious" />
+      <edge id="43" source="climate" target="helping" />
+      <edge id="44" source="climate" target="lacked" />
+      <edge id="45" source="climate" target="expose" />
+      <edge id="46" source="climate" target="liberty" />
+      <edge id="47" source="climate" target="loyalty" />
+      <edge id="48" source="climate" target="unite" />
+      <edge id="49" source="climate" target="withdraw" />
+      <edge id="50" source="climate" target="motivation" />
+      <edge id="51" source="climate" target="planners" />
+      <edge id="52" source="climate" target="modest" />
+      <edge id="53" source="climate" target="realistically" />
+      <edge id="54" source="climate" target="disaster" />
+      <edge id="55" source="climate" target="enjoyment" />
+      <edge id="56" source="climate" target="concessions" />
+      <edge id="57" source="climate" target="prey" />
+      <edge id="58" source="climate" target="grips" />
+      <edge id="59" source="climate" target="exploit" />
+      <edge id="60" source="liberty" target="sacrifice" />
+      <edge id="61" source="liberty" target="challenge" />
+      <edge id="62" source="liberty" target="preserve" />
+      <edge id="63" source="liberty" target="loyalty" />
+      <edge id="64" source="liberty" target="unite" />
+      <edge id="65" source="liberty" target="urgent" />
+      <edge id="66" source="liberty" target="freedom" />
+      <edge id="67" source="liberty" target="ardent" />
+      <edge id="68" source="liberty" target="capitalism" />
+      <edge id="69" source="liberty" target="expose" />
+      <edge id="70" source="liberty" target="heritage" />
+      <edge id="71" source="liberty" target="acknowledge" />
+      <edge id="72" source="liberty" target="brethren" />
+      <edge id="73" source="liberty" target="democratic" />
+      <edge id="74" source="liberty" target="hostile" />
+      <edge id="75" source="liberty" target="Communism" />
+      <edge id="76" source="liberty" target="enthusiasm" />
+      <edge id="77" source="liberty" target="trust" />
+      <edge id="78" source="liberty" target="threaten" />
+      <edge id="79" source="liberty" target="people" />
+      <edge id="80" source="justice" target="disarmament" />
+      <edge id="81" source="justice" target="intuition" />
+      <edge id="82" source="justice" target="democratic" />
+      <edge id="83" source="justice" target="arose" />
+      <edge id="84" source="justice" target="intentions" />
+      <edge id="85" source="justice" target="Khrushchev's" />
+      <edge id="86" source="justice" target="treaty" />
+      <edge id="87" source="justice" target="civilized" />
+      <edge id="88" source="justice" target="intent" />
+      <edge id="89" source="justice" target="self-determination" />
+      <edge id="90" source="justice" target="Charter" />
+      <edge id="91" source="justice" target="enforce" />
+      <edge id="92" source="justice" target="agrees" />
+      <edge id="93" source="justice" target="Trujillo" />
+      <edge id="94" source="justice" target="asserted" />
+      <edge id="95" source="justice" target="appealed" />
+      <edge id="96" source="justice" target="reminds" />
+      <edge id="97" source="justice" target="supreme" />
+      <edge id="98" source="justice" target="inspired" />
+      <edge id="99" source="justice" target="anti-Semitism" />
+      <edge id="100" source="culture" target="civilization" />
+      <edge id="101" source="culture" target="nineteenth-century" />
+      <edge id="102" source="culture" target="excellence" />
+      <edge id="103" source="culture" target="religions" />
+      <edge id="104" source="culture" target="twentieth-century" />
+      <edge id="105" source="culture" target="traditions" />
+      <edge id="106" source="culture" target="Religion" />
+      <edge id="107" source="culture" target="secular" />
+      <edge id="108" source="culture" target="historical" />
+      <edge id="109" source="culture" target="intellectual" />
+      <edge id="110" source="culture" target="supernatural" />
+      <edge id="111" source="culture" target="theological" />
+      <edge id="112" source="culture" target="monastic" />
+      <edge id="113" source="culture" target="emerges" />
+      <edge id="114" source="culture" target="revolutionary" />
+      <edge id="115" source="culture" target="equality" />
+      <edge id="116" source="culture" target="Christianity" />
+      <edge id="117" source="culture" target="elite" />
+      <edge id="118" source="culture" target="realm" />
+      <edge id="119" source="culture" target="unity" />
+      <edge id="120" source="money" target="paid" />
+      <edge id="121" source="money" target="pay" />
+      <edge id="122" source="money" target="raise" />
+      <edge id="123" source="money" target="bills" />
+      <edge id="124" source="money" target="debts" />
+      <edge id="125" source="money" target="dollar" />
+      <edge id="126" source="money" target="buy" />
+      <edge id="127" source="money" target="hospital" />
+      <edge id="128" source="money" target="worries" />
+      <edge id="129" source="money" target="household" />
+      <edge id="130" source="money" target="spending" />
+      <edge id="131" source="money" target="borrow" />
+      <edge id="132" source="money" target="care" />
+      <edge id="133" source="money" target="collect" />
+      <edge id="134" source="money" target="paying" />
+      <edge id="135" source="money" target="Stacy" />
+      <edge id="136" source="money" target="full-time" />
+      <edge id="137" source="money" target="dentist" />
+      <edge id="138" source="money" target="sell" />
+      <edge id="139" source="money" target="stay" />
+      <edge id="140" source="environment" target="logical" />
+      <edge id="141" source="environment" target="entities" />
+      <edge id="142" source="environment" target="perceptions" />
+      <edge id="143" source="environment" target="pathological" />
+      <edge id="144" source="environment" target="consequently" />
+      <edge id="145" source="environment" target="cosmic" />
+      <edge id="146" source="environment" target="stability" />
+      <edge id="147" source="environment" target="validity" />
+      <edge id="148" source="environment" target="impersonal" />
+      <edge id="149" source="environment" target="therapeutic" />
+      <edge id="150" source="environment" target="explore" />
+      <edge id="151" source="environment" target="everyday" />
+      <edge id="152" source="environment" target="cope" />
+      <edge id="153" source="environment" target="proceed" />
+      <edge id="154" source="environment" target="compounded" />
+      <edge id="155" source="environment" target="readiness" />
+      <edge id="156" source="environment" target="conditioned" />
+      <edge id="157" source="environment" target="comprehension" />
+      <edge id="158" source="environment" target="empirical" />
+      <edge id="159" source="environment" target="creates" />
+      <edge id="160" source="freedom" target="democratic" />
+      <edge id="161" source="freedom" target="struggle" />
+      <edge id="162" source="freedom" target="preserve" />
+      <edge id="163" source="freedom" target="customs" />
+      <edge id="164" source="freedom" target="sentiment" />
+      <edge id="165" source="freedom" target="cope" />
+      <edge id="166" source="freedom" target="wars" />
+      <edge id="167" source="freedom" target="peaceful" />
+      <edge id="168" source="freedom" target="readiness" />
+      <edge id="169" source="freedom" target="enthusiasm" />
+      <edge id="170" source="freedom" target="prosperity" />
+      <edge id="171" source="freedom" target="demands" />
+      <edge id="172" source="freedom" target="pro-Western" />
+      <edge id="173" source="freedom" target="survival" />
+      <edge id="174" source="freedom" target="dedication" />
+      <edge id="175" source="freedom" target="unite" />
+      <edge id="176" source="freedom" target="protest" />
+      <edge id="177" source="freedom" target="genuine" />
+      <edge id="178" source="freedom" target="capitalism" />
+      <edge id="179" source="people" target="Negroes" />
+      <edge id="180" source="people" target="Americans" />
+      <edge id="181" source="people" target="prefer" />
+      <edge id="182" source="people" target="friendly" />
+      <edge id="183" source="people" target="Southerners" />
+      <edge id="184" source="people" target="reluctant" />
+      <edge id="185" source="people" target="eager" />
+      <edge id="186" source="people" target="artists" />
+      <edge id="187" source="people" target="whites" />
+      <edge id="188" source="people" target="horrible" />
+      <edge id="189" source="people" target="intelligent" />
+      <edge id="190" source="people" target="heroes" />
+      <edge id="191" source="people" target="wanting" />
+      <edge id="192" source="people" target="Christians" />
+      <edge id="193" source="people" target="nations" />
+      <edge id="194" source="people" target="differently" />
+      <edge id="195" source="people" target="peasants" />
+      <edge id="196" source="people" target="listeners" />
+      <edge id="197" source="people" target="officially" />
+      <edge id="198" source="change" target="conclusion" />
+      <edge id="199" source="change" target="prolonged" />
+      <edge id="200" source="change" target="abrupt" />
+      <edge id="201" source="change" target="morphophonemics" />
+      <edge id="202" source="change" target="exposure" />
+      <edge id="203" source="change" target="usefulness" />
+      <edge id="204" source="change" target="individual's" />
+      <edge id="205" source="change" target="representation" />
+      <edge id="206" source="change" target="decay" />
+      <edge id="207" source="change" target="weakness" />
+      <edge id="208" source="change" target="unfortunately" />
+      <edge id="209" source="change" target="opponent" />
+      <edge id="210" source="change" target="accounting" />
+      <edge id="211" source="change" target="accelerating" />
+      <edge id="212" source="change" target="attain" />
+      <edge id="213" source="change" target="diagnosis" />
+      <edge id="214" source="change" target="projection" />
+      <edge id="215" source="change" target="vastly" />
+      <edge id="216" source="change" target="conformity" />
+      <edge id="217" source="change" target="tentative" />
+      <edge id="218" source="scientist" target="dual" />
+      <edge id="219" source="scientist" target="Realtors" />
+      <edge id="220" source="scientist" target="1832" />
+      <edge id="221" source="scientist" target="sundry" />
+      <edge id="222" source="scientist" target="Students" />
+      <edge id="223" source="scientist" target="settings" />
+      <edge id="224" source="scientist" target="initiated" />
+      <edge id="225" source="scientist" target="Religious" />
+      <edge id="226" source="scientist" target="recordings" />
+      <edge id="227" source="scientist" target="statesman" />
+      <edge id="228" source="scientist" target="strengthened" />
+      <edge id="229" source="scientist" target="deficiencies" />
+      <edge id="230" source="scientist" target="esprit" />
+      <edge id="231" source="scientist" target="diplomats" />
+      <edge id="232" source="scientist" target="traditionally" />
+      <edge id="233" source="scientist" target="Philosophy" />
+      <edge id="234" source="scientist" target="athletics" />
+      <edge id="235" source="scientist" target="renaissance" />
+      <edge id="236" source="scientist" target="participated" />
+      <edge id="237" source="scientist" target="reviews" />
+      <edge id="238" source="politics" target="communism" />
+      <edge id="239" source="politics" target="wars" />
+      <edge id="240" source="politics" target="realm" />
+      <edge id="241" source="politics" target="Plato's" />
+      <edge id="242" source="politics" target="ideology" />
+      <edge id="243" source="politics" target="capitalism" />
+      <edge id="244" source="politics" target="sentiment" />
+      <edge id="245" source="politics" target="coexistence" />
+      <edge id="246" source="politics" target="criticism" />
+      <edge id="247" source="politics" target="Utopian" />
+      <edge id="248" source="politics" target="secular" />
+      <edge id="249" source="politics" target="civilized" />
+      <edge id="250" source="politics" target="intuition" />
+      <edge id="251" source="politics" target="peaceful" />
+      <edge id="252" source="politics" target="liberalism" />
+      <edge id="253" source="politics" target="Whitehead" />
+      <edge id="254" source="politics" target="intellectual" />
+      <edge id="255" source="politics" target="equality" />
+      <edge id="256" source="politics" target="relate" />
+      <edge id="257" source="politics" target="customs" />
+      <edge id="258" source="hero" target="painter" />
+      <edge id="259" source="hero" target="romantic" />
+      <edge id="260" source="hero" target="magnificent" />
+      <edge id="261" source="hero" target="scholar" />
+      <edge id="262" source="hero" target="blessing" />
+      <edge id="263" source="hero" target="Eve" />
+      <edge id="264" source="hero" target="Southerner" />
+      <edge id="265" source="hero" target="resembles" />
+      <edge id="266" source="hero" target="genius" />
+      <edge id="267" source="hero" target="recalls" />
+      <edge id="268" source="hero" target="hymn" />
+      <edge id="269" source="hero" target="Holmes" />
+      <edge id="270" source="hero" target="Love" />
+      <edge id="271" source="hero" target="revealing" />
+      <edge id="272" source="hero" target="Book" />
+      <edge id="273" source="hero" target="critic" />
+      <edge id="274" source="hero" target="Arnolphe" />
+      <edge id="275" source="hero" target="Holy" />
+      <edge id="276" source="hero" target="fascinating" />
+      <edge id="277" source="hero" target="Utopia" />
+      <edge id="278" source="hero" target="story" />
+      <edge id="279" source="story" target="tells" />
+      <edge id="280" source="story" target="gift" />
+      <edge id="281" source="story" target="Jew" />
+      <edge id="282" source="story" target="writer" />
+      <edge id="283" source="story" target="actor" />
+      <edge id="284" source="story" target="Love" />
+      <edge id="285" source="story" target="stories" />
+      <edge id="286" source="story" target="blessing" />
+      <edge id="287" source="story" target="habit" />
+      <edge id="288" source="story" target="essay" />
+      <edge id="289" source="story" target="humor" />
+      <edge id="290" source="story" target="fascinating" />
+      <edge id="291" source="story" target="irony" />
+      <edge id="292" source="story" target="confession" />
+      <edge id="293" source="story" target="woman's" />
+      <edge id="294" source="story" target="remarked" />
+      <edge id="295" source="story" target="Herr" />
+      <edge id="296" source="story" target="proud" />
+      <edge id="297" source="story" target="Larkin" />
+      <edge id="298" source="truth" target="salvation" />
+      <edge id="299" source="truth" target="absurd" />
+      <edge id="300" source="truth" target="grace" />
+      <edge id="301" source="truth" target="deeper" />
+      <edge id="302" source="truth" target="sacred" />
+      <edge id="303" source="truth" target="mankind" />
+      <edge id="304" source="truth" target="humble" />
+      <edge id="305" source="truth" target="badness" />
+      <edge id="306" source="truth" target="sin" />
+      <edge id="307" source="truth" target="passion" />
+      <edge id="308" source="truth" target="hopeless" />
+      <edge id="309" source="truth" target="convinced" />
+      <edge id="310" source="truth" target="understandable" />
+      <edge id="311" source="truth" target="Utopia" />
+      <edge id="312" source="truth" target="fate" />
+      <edge id="313" source="truth" target="contrary" />
+      <edge id="314" source="truth" target="certainty" />
+      <edge id="315" source="truth" target="implies" />
+      <edge id="316" source="truth" target="virtue" />
+      <edge id="317" source="truth" target="paradox" />
+      <edge id="318" source="lies" target="rejects" />
+      <edge id="319" source="lies" target="hypothesis" />
+      <edge id="320" source="lies" target="tendency" />
+      <edge id="321" source="lies" target="essence" />
+      <edge id="322" source="lies" target="Aristotle's" />
+      <edge id="323" source="lies" target="moreover" />
+      <edge id="324" source="lies" target="ultimately" />
+      <edge id="325" source="lies" target="opponent" />
+      <edge id="326" source="lies" target="deeper" />
+      <edge id="327" source="lies" target="genuinely" />
+      <edge id="328" source="lies" target="sociology" />
+      <edge id="329" source="lies" target="entails" />
+      <edge id="330" source="lies" target="viewpoint" />
+      <edge id="331" source="lies" target="render" />
+      <edge id="332" source="lies" target="termination" />
+      <edge id="333" source="lies" target="projection" />
+      <edge id="334" source="lies" target="conformity" />
+      <edge id="335" source="lies" target="tensions" />
+      <edge id="336" source="lies" target="Poetics" />
+      <edge id="337" source="lies" target="non-violent" />
+      <edge id="338" source="good" target="nurse" />
+      <edge id="339" source="good" target="bad" />
+      <edge id="340" source="good" target="tastes" />
+      <edge id="341" source="good" target="who's" />
+      <edge id="342" source="good" target="promising" />
+      <edge id="343" source="good" target="Tommy" />
+      <edge id="344" source="good" target="Larkin" />
+      <edge id="345" source="good" target="blend" />
+      <edge id="346" source="good" target="supposed" />
+      <edge id="347" source="good" target="joke" />
+      <edge id="348" source="good" target="lucky" />
+      <edge id="349" source="good" target="cartoons" />
+      <edge id="350" source="good" target="Askington" />
+      <edge id="351" source="good" target="promise" />
+      <edge id="352" source="good" target="likes" />
+      <edge id="353" source="good" target="stubborn" />
+      <edge id="354" source="good" target="inspiring" />
+      <edge id="355" source="good" target="hasn't" />
+      <edge id="356" source="good" target="regret" />
+      <edge id="357" source="good" target="hebephrenic" />
+      <edge id="358" source="bad" target="pause" />
+      <edge id="359" source="bad" target="goodness" />
+      <edge id="360" source="bad" target="positivist" />
+      <edge id="361" source="bad" target="pretend" />
+      <edge id="362" source="bad" target="immortal" />
+      <edge id="363" source="bad" target="linguist" />
+      <edge id="364" source="bad" target="joke" />
+      <edge id="365" source="bad" target="badness" />
+      <edge id="366" source="bad" target="panic" />
+      <edge id="367" source="bad" target="rabbit" />
+      <edge id="368" source="bad" target="foolish" />
+      <edge id="369" source="bad" target="disbelief" />
+      <edge id="370" source="bad" target="Johnnie" />
+      <edge id="371" source="bad" target="devil" />
+      <edge id="372" source="bad" target="Jubal" />
+      <edge id="373" source="bad" target="hears" />
+      <edge id="374" source="bad" target="bothering" />
+      <edge id="375" source="bad" target="sitter" />
+      <edge id="376" source="bad" target="upset" />
+      <edge id="377" source="bad" target="sensible" />
+    </edges>
+  </graph>
+</gexf>

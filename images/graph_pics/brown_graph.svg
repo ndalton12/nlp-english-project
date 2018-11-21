@@ -1,0 +1,3090 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="994.20056"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-486.244141 -472.687714 994.200562 998.206055" height="998.20605"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="1.0"
+              d="M -74.492752,386.643585 L 93.428329,-157.077286"
+              class="id_science id_philosophy" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -74.492752,386.643585 L -302.877899,-151.299881"
+              class="id_science id_intellectual" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -74.492752,386.643585 L 507.956421,-381.772736"
+              class="id_science id_ethics" stroke-opacity="1.0" stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -74.492752,386.643585 L -104.870987,-177.522659"
+              class="id_science id_sciences" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -74.492752,386.643585 L -264.787170,469.670746"
+              class="id_science id_fiction" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -74.492752,386.643585 L 436.572937,-203.453751"
+              class="id_science id_excellence" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -74.492752,386.643585 L -400.574280,79.774025"
+              class="id_science id_reflects" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -74.492752,386.643585 L 339.841797,444.073822"
+              class="id_science id_underlying" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -74.492752,386.643585 L -261.751678,-215.417252"
+              class="id_science id_realm" stroke-opacity="1.0" stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -74.492752,386.643585 L -342.157349,282.736664"
+              class="id_science id_philosophical" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -74.492752,386.643585 L 191.759445,199.852554"
+              class="id_science id_psychology" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -74.492752,386.643585 L -118.555740,-187.443436"
+              class="id_science id_aesthetic" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -74.492752,386.643585 L 259.699585,0.408916"
+              class="id_science id_Religion" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -74.492752,386.643585 L 133.142990,-290.884064"
+              class="id_science id_criticism" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -74.492752,386.643585 L -231.182571,-247.446854"
+              class="id_science id_adolescent" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -74.492752,386.643585 L -7.465222,252.788284"
+              class="id_science id_discipline" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -74.492752,386.643585 L 361.931641,-121.902489"
+              class="id_science id_supernatural" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -74.492752,386.643585 L -469.471436,462.702057"
+              class="id_science id_metaphysics" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -74.492752,386.643585 L -328.714417,-23.927326"
+              class="id_science id_vitality" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -74.492752,386.643585 L 145.837204,160.994034"
+              class="id_science id_importance" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 269.858765,274.376221 L 271.001770,-155.637039"
+              class="id_fear id_suffer" stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 269.858765,274.376221 L 95.133957,418.493073"
+              class="id_fear id_humanity" stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 269.858765,274.376221 L 116.918015,-371.515900"
+              class="id_fear id_blessed" stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 269.858765,274.376221 L 187.363571,-472.687714"
+              class="id_fear id_insane" stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 269.858765,274.376221 L -223.185135,-421.569122"
+              class="id_fear id_dwell" stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 269.858765,274.376221 L -26.949873,-191.088211"
+              class="id_fear id_tempted" stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 269.858765,274.376221 L 130.019333,-83.018944"
+              class="id_fear id_fate" stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 269.858765,274.376221 L -98.956894,198.032059"
+              class="id_fear id_confusion" stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 269.858765,274.376221 L 372.597473,314.054840"
+              class="id_fear id_mortal" stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 269.858765,274.376221 L 337.996338,-356.517303"
+              class="id_fear id_possibly" stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 269.858765,274.376221 L 102.824203,421.689270"
+              class="id_fear id_hopeless" stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 269.858765,274.376221 L 49.975819,-63.892231"
+              class="id_fear id_sensed" stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 269.858765,274.376221 L -18.653639,-147.103226"
+              class="id_fear id_dispelled" stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 269.858765,274.376221 L -269.056610,-387.665741"
+              class="id_fear id_negotiate" stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 269.858765,274.376221 L -38.570263,-114.859642"
+              class="id_fear id_lose" stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 269.858765,274.376221 L 429.465149,88.547523"
+              class="id_fear id_badness" stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 269.858765,274.376221 L 366.909363,35.366741"
+              class="id_fear id_vulnerable" stroke-opacity="1.0"
+              stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 269.858765,274.376221 L 272.845154,157.121078"
+              class="id_fear id_acknowledge" stroke-opacity="1.0"
+              stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 269.858765,274.376221 L 158.937851,488.500702"
+              class="id_fear id_creatures" stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 269.858765,274.376221 L -283.013245,419.267365"
+              class="id_fear id_remind" stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 430.888367,-50.630878 L -422.647003,165.014816"
+              class="id_climate id_enthusiasm" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 430.888367,-50.630878 L -339.365967,142.958694"
+              class="id_climate id_educate" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 430.888367,-50.630878 L -31.536970,-14.350544"
+              class="id_climate id_precious" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 430.888367,-50.630878 L 154.249985,416.005585"
+              class="id_climate id_helping" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 430.888367,-50.630878 L 18.274340,-367.431366"
+              class="id_climate id_lacked" stroke-opacity="1.0" stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 430.888367,-50.630878 L 106.636887,314.965759"
+              class="id_climate id_expose" stroke-opacity="1.0" stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 430.888367,-50.630878 L -367.166870,195.329422"
+              class="id_climate id_liberty" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 430.888367,-50.630878 L -201.337814,-183.800674"
+              class="id_climate id_loyalty" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 430.888367,-50.630878 L 346.507568,129.890823"
+              class="id_climate id_unite" stroke-opacity="1.0" stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 430.888367,-50.630878 L 3.713122,-264.289093"
+              class="id_climate id_withdraw" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 430.888367,-50.630878 L -368.432373,473.006744"
+              class="id_climate id_motivation" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 430.888367,-50.630878 L 504.442688,68.554390"
+              class="id_climate id_planners" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 430.888367,-50.630878 L -285.730255,356.257629"
+              class="id_climate id_modest" stroke-opacity="1.0" stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 430.888367,-50.630878 L -117.680252,440.690491"
+              class="id_climate id_realistically" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 430.888367,-50.630878 L 371.252747,48.229015"
+              class="id_climate id_disaster" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 430.888367,-50.630878 L -84.495163,-85.902367"
+              class="id_climate id_enjoyment" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 430.888367,-50.630878 L 382.580383,-284.696198"
+              class="id_climate id_concessions" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 430.888367,-50.630878 L 86.436264,-418.139435"
+              class="id_climate id_prey" stroke-opacity="1.0" stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 430.888367,-50.630878 L -192.754166,514.988159"
+              class="id_climate id_grips" stroke-opacity="1.0" stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 430.888367,-50.630878 L 55.375172,-116.396812"
+              class="id_climate id_exploit" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -367.166870,195.329422 L -456.990662,-58.817829"
+              class="id_liberty id_sacrifice" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -367.166870,195.329422 L -298.253967,-254.762222"
+              class="id_liberty id_challenge" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -367.166870,195.329422 L 81.487961,-178.244827"
+              class="id_liberty id_preserve" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -367.166870,195.329422 L -201.337814,-183.800674"
+              class="id_liberty id_loyalty" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -367.166870,195.329422 L 346.507568,129.890823"
+              class="id_liberty id_unite" stroke-opacity="1.0" stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -367.166870,195.329422 L -226.413315,106.966042"
+              class="id_liberty id_urgent" stroke-opacity="1.0" stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -367.166870,195.329422 L 257.497253,-158.065628"
+              class="id_liberty id_freedom" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -367.166870,195.329422 L -426.480774,438.121552"
+              class="id_liberty id_ardent" stroke-opacity="1.0" stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -367.166870,195.329422 L 405.148438,-167.823624"
+              class="id_liberty id_capitalism" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -367.166870,195.329422 L 106.636887,314.965759"
+              class="id_liberty id_expose" stroke-opacity="1.0" stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -367.166870,195.329422 L -194.830826,-225.400406"
+              class="id_liberty id_heritage" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -367.166870,195.329422 L 272.845154,157.121078"
+              class="id_liberty id_acknowledge" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -367.166870,195.329422 L -236.337814,387.343872"
+              class="id_liberty id_brethren" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -367.166870,195.329422 L 451.361145,-87.829674"
+              class="id_liberty id_democratic" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -367.166870,195.329422 L -131.484818,49.250622"
+              class="id_liberty id_hostile" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -367.166870,195.329422 L 21.948046,56.841595"
+              class="id_liberty id_Communism" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -367.166870,195.329422 L -422.647003,165.014816"
+              class="id_liberty id_enthusiasm" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -367.166870,195.329422 L 189.557297,-269.196503"
+              class="id_liberty id_trust" stroke-opacity="1.0" stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -367.166870,195.329422 L 244.157333,-362.844208"
+              class="id_liberty id_threaten" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -367.166870,195.329422 L -479.428650,82.202797"
+              class="id_liberty id_people" stroke-opacity="1.0" stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 331.425659,244.115005 L -24.016035,-179.560623"
+              class="id_justice id_disarmament" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 331.425659,244.115005 L 235.685837,318.467804"
+              class="id_justice id_intuition" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 331.425659,244.115005 L 451.361145,-87.829674"
+              class="id_justice id_democratic" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 331.425659,244.115005 L 393.218994,-297.432892"
+              class="id_justice id_arose" stroke-opacity="1.0" stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 331.425659,244.115005 L -285.674683,-336.545502"
+              class="id_justice id_intentions" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 331.425659,244.115005 L 452.446045,-132.292923"
+              class="id_justice id_Khrushchev&apos;s" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 331.425659,244.115005 L -337.149719,518.903625"
+              class="id_justice id_treaty" stroke-opacity="1.0" stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 331.425659,244.115005 L 405.916321,-269.048920"
+              class="id_justice id_civilized" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 331.425659,244.115005 L 322.000916,28.165325"
+              class="id_justice id_intent" stroke-opacity="1.0" stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 331.425659,244.115005 L -249.116089,456.073914"
+              class="id_justice id_self-determination" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 331.425659,244.115005 L 119.746750,456.736298"
+              class="id_justice id_Charter" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 331.425659,244.115005 L 235.999130,230.091537"
+              class="id_justice id_enforce" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 331.425659,244.115005 L 161.616318,-224.718948"
+              class="id_justice id_agrees" stroke-opacity="1.0" stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 331.425659,244.115005 L 296.215332,-450.730072"
+              class="id_justice id_Trujillo" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 331.425659,244.115005 L 204.732040,169.982895"
+              class="id_justice id_asserted" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 331.425659,244.115005 L 155.741440,162.550095"
+              class="id_justice id_appealed" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 331.425659,244.115005 L -382.711304,344.450623"
+              class="id_justice id_reminds" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 331.425659,244.115005 L 433.300049,372.066193"
+              class="id_justice id_supreme" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 331.425659,244.115005 L -314.432800,-359.504425"
+              class="id_justice id_inspired" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 331.425659,244.115005 L 459.925415,412.893860"
+              class="id_justice id_anti-Semitism" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 236.383591,-413.263092 L -227.823807,-363.073334"
+              class="id_culture id_civilization" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 236.383591,-413.263092 L -323.234924,-374.622894"
+              class="id_culture id_nineteenth-century" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 236.383591,-413.263092 L 436.572937,-203.453751"
+              class="id_culture id_excellence" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 236.383591,-413.263092 L 252.065720,-13.900166"
+              class="id_culture id_religions" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 236.383591,-413.263092 L 418.822266,93.343422"
+              class="id_culture id_twentieth-century" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 236.383591,-413.263092 L -143.041977,-182.707962"
+              class="id_culture id_traditions" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 236.383591,-413.263092 L 259.699585,0.408916"
+              class="id_culture id_Religion" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 236.383591,-413.263092 L 110.305527,350.227081"
+              class="id_culture id_secular" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 236.383591,-413.263092 L 44.194019,74.057472"
+              class="id_culture id_historical" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 236.383591,-413.263092 L -302.877899,-151.299881"
+              class="id_culture id_intellectual" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 236.383591,-413.263092 L 361.931641,-121.902489"
+              class="id_culture id_supernatural" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 236.383591,-413.263092 L 398.226807,-347.417938"
+              class="id_culture id_theological" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 236.383591,-413.263092 L 272.593384,-340.441559"
+              class="id_culture id_monastic" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 236.383591,-413.263092 L 33.116383,186.676224"
+              class="id_culture id_emerges" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 236.383591,-413.263092 L -384.221039,239.449692"
+              class="id_culture id_revolutionary" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 236.383591,-413.263092 L 369.200623,408.820801"
+              class="id_culture id_equality" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 236.383591,-413.263092 L -27.482618,-3.768208"
+              class="id_culture id_Christianity" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 236.383591,-413.263092 L 201.112045,523.797913"
+              class="id_culture id_elite" stroke-opacity="1.0" stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 236.383591,-413.263092 L -261.751678,-215.417252"
+              class="id_culture id_realm" stroke-opacity="1.0" stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 236.383591,-413.263092 L 243.980026,-457.927032"
+              class="id_culture id_unity" stroke-opacity="1.0" stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -144.977768,394.780182 L 280.182068,-121.787621"
+              class="id_money id_paid" stroke-opacity="1.0" stroke="#00c7ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -144.977768,394.780182 L 239.428452,-421.062469"
+              class="id_money id_pay" stroke-opacity="1.0" stroke="#00c7ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -144.977768,394.780182 L 260.589600,-213.197464"
+              class="id_money id_raise" stroke-opacity="1.0" stroke="#00c7ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -144.977768,394.780182 L -255.318069,-254.557816"
+              class="id_money id_bills" stroke-opacity="1.0" stroke="#00c7ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -144.977768,394.780182 L 14.117175,19.707928"
+              class="id_money id_debts" stroke-opacity="1.0" stroke="#00c7ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -144.977768,394.780182 L 141.824814,409.199677"
+              class="id_money id_dollar" stroke-opacity="1.0" stroke="#00c7ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -144.977768,394.780182 L 221.992477,-142.599258"
+              class="id_money id_buy" stroke-opacity="1.0" stroke="#00c7ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -144.977768,394.780182 L 203.963669,-48.506001"
+              class="id_money id_hospital" stroke-opacity="1.0" stroke="#00c7ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -144.977768,394.780182 L -96.730545,267.450500"
+              class="id_money id_worries" stroke-opacity="1.0" stroke="#00c7ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -144.977768,394.780182 L 205.445541,347.967255"
+              class="id_money id_household" stroke-opacity="1.0"
+              stroke="#00c7ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -144.977768,394.780182 L 71.430099,373.500702"
+              class="id_money id_spending" stroke-opacity="1.0" stroke="#00c7ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -144.977768,394.780182 L 285.800537,-425.414886"
+              class="id_money id_borrow" stroke-opacity="1.0" stroke="#00c7ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -144.977768,394.780182 L 24.364061,-28.200947"
+              class="id_money id_care" stroke-opacity="1.0" stroke="#00c7ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -144.977768,394.780182 L 84.772629,-437.517426"
+              class="id_money id_collect" stroke-opacity="1.0" stroke="#00c7ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -144.977768,394.780182 L -132.389511,404.331879"
+              class="id_money id_paying" stroke-opacity="1.0" stroke="#00c7ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -144.977768,394.780182 L 26.155565,88.378639"
+              class="id_money id_Stacy" stroke-opacity="1.0" stroke="#00c7ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -144.977768,394.780182 L -253.277557,-379.923920"
+              class="id_money id_full-time" stroke-opacity="1.0"
+              stroke="#00c7ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -144.977768,394.780182 L 269.750549,119.083992"
+              class="id_money id_dentist" stroke-opacity="1.0" stroke="#00c7ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -144.977768,394.780182 L -78.158737,-252.909439"
+              class="id_money id_sell" stroke-opacity="1.0" stroke="#00c7ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -144.977768,394.780182 L 273.615906,-270.788116"
+              class="id_money id_stay" stroke-opacity="1.0" stroke="#00c7ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -385.481934,-254.208572 L 256.044189,-41.866352"
+              class="id_environment id_logical" stroke-opacity="1.0"
+              stroke="#23966f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -385.481934,-254.208572 L 112.878830,-219.462234"
+              class="id_environment id_entities" stroke-opacity="1.0"
+              stroke="#23966f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -385.481934,-254.208572 L -91.243820,-158.800552"
+              class="id_environment id_perceptions" stroke-opacity="1.0"
+              stroke="#23966f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -385.481934,-254.208572 L 186.731308,89.540535"
+              class="id_environment id_pathological" stroke-opacity="1.0"
+              stroke="#23966f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -385.481934,-254.208572 L 26.491991,-116.169090"
+              class="id_environment id_consequently" stroke-opacity="1.0"
+              stroke="#23966f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -385.481934,-254.208572 L -288.164856,-183.507523"
+              class="id_environment id_cosmic" stroke-opacity="1.0"
+              stroke="#23966f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -385.481934,-254.208572 L 5.422748,46.276318"
+              class="id_environment id_stability" stroke-opacity="1.0"
+              stroke="#23966f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -385.481934,-254.208572 L 448.210205,285.052002"
+              class="id_environment id_validity" stroke-opacity="1.0"
+              stroke="#23966f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -385.481934,-254.208572 L 463.736206,-266.483307"
+              class="id_environment id_impersonal" stroke-opacity="1.0"
+              stroke="#23966f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -385.481934,-254.208572 L 432.783875,385.649628"
+              class="id_environment id_therapeutic" stroke-opacity="1.0"
+              stroke="#23966f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -385.481934,-254.208572 L 406.487671,-220.095535"
+              class="id_environment id_explore" stroke-opacity="1.0"
+              stroke="#23966f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -385.481934,-254.208572 L 106.130051,129.041672"
+              class="id_environment id_everyday" stroke-opacity="1.0"
+              stroke="#23966f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -385.481934,-254.208572 L 191.614914,332.611542"
+              class="id_environment id_cope" stroke-opacity="1.0"
+              stroke="#23966f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -385.481934,-254.208572 L 109.527267,-201.755447"
+              class="id_environment id_proceed" stroke-opacity="1.0"
+              stroke="#23966f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -385.481934,-254.208572 L -186.984177,-238.700455"
+              class="id_environment id_compounded" stroke-opacity="1.0"
+              stroke="#23966f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -385.481934,-254.208572 L 202.318405,497.646484"
+              class="id_environment id_readiness" stroke-opacity="1.0"
+              stroke="#23966f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -385.481934,-254.208572 L -294.933777,-68.617516"
+              class="id_environment id_conditioned" stroke-opacity="1.0"
+              stroke="#23966f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -385.481934,-254.208572 L 203.654831,-282.569305"
+              class="id_environment id_comprehension" stroke-opacity="1.0"
+              stroke="#23966f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -385.481934,-254.208572 L -257.320435,356.965851"
+              class="id_environment id_empirical" stroke-opacity="1.0"
+              stroke="#23966f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -385.481934,-254.208572 L -401.940125,-180.470901"
+              class="id_environment id_creates" stroke-opacity="1.0"
+              stroke="#23966f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 257.497253,-158.065628 L 451.361145,-87.829674"
+              class="id_freedom id_democratic" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 257.497253,-158.065628 L 361.988586,-102.995384"
+              class="id_freedom id_struggle" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 257.497253,-158.065628 L 81.487961,-178.244827"
+              class="id_freedom id_preserve" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 257.497253,-158.065628 L 460.847839,108.162025"
+              class="id_freedom id_customs" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 257.497253,-158.065628 L -241.045670,-225.563797"
+              class="id_freedom id_sentiment" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 257.497253,-158.065628 L 191.614914,332.611542"
+              class="id_freedom id_cope" stroke-opacity="1.0" stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 257.497253,-158.065628 L -342.713135,373.606110"
+              class="id_freedom id_wars" stroke-opacity="1.0" stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 257.497253,-158.065628 L -63.314434,-216.997391"
+              class="id_freedom id_peaceful" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 257.497253,-158.065628 L 202.318405,497.646484"
+              class="id_freedom id_readiness" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 257.497253,-158.065628 L -422.647003,165.014816"
+              class="id_freedom id_enthusiasm" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 257.497253,-158.065628 L -151.505325,492.166077"
+              class="id_freedom id_prosperity" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 257.497253,-158.065628 L -33.023113,-399.810822"
+              class="id_freedom id_demands" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 257.497253,-158.065628 L -302.591095,-171.584793"
+              class="id_freedom id_pro-Western" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 257.497253,-158.065628 L 207.551682,147.166946"
+              class="id_freedom id_survival" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 257.497253,-158.065628 L -190.226395,-182.397232"
+              class="id_freedom id_dedication" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 257.497253,-158.065628 L 346.507568,129.890823"
+              class="id_freedom id_unite" stroke-opacity="1.0" stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 257.497253,-158.065628 L 373.722290,-72.162865"
+              class="id_freedom id_protest" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 257.497253,-158.065628 L 367.937622,206.713577"
+              class="id_freedom id_genuine" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 257.497253,-158.065628 L 405.148438,-167.823624"
+              class="id_freedom id_capitalism" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -479.428650,82.202797 L 301.654785,239.037369"
+              class="id_people id_Negroes" stroke-opacity="1.0" stroke="#d3b3b0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -479.428650,82.202797 L 119.358810,2.001384"
+              class="id_people id_Americans" stroke-opacity="1.0"
+              stroke="#d3b3b0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -479.428650,82.202797 L -39.844036,72.679146"
+              class="id_people id_prefer" stroke-opacity="1.0" stroke="#d3b3b0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -479.428650,82.202797 L 367.063293,208.902237"
+              class="id_people id_friendly" stroke-opacity="1.0"
+              stroke="#d3b3b0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -479.428650,82.202797 L -231.128250,428.048615"
+              class="id_people id_Southerners" stroke-opacity="1.0"
+              stroke="#d3b3b0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -479.428650,82.202797 L -124.093460,-42.929157"
+              class="id_people id_reluctant" stroke-opacity="1.0"
+              stroke="#d3b3b0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -479.428650,82.202797 L -436.982483,-381.287689"
+              class="id_people id_eager" stroke-opacity="1.0" stroke="#d3b3b0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -479.428650,82.202797 L 156.339218,-421.130157"
+              class="id_people id_artists" stroke-opacity="1.0" stroke="#d3b3b0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -479.428650,82.202797 L -391.766022,-6.568989"
+              class="id_people id_whites" stroke-opacity="1.0" stroke="#d3b3b0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -479.428650,82.202797 L 416.477051,-346.024750"
+              class="id_people id_horrible" stroke-opacity="1.0"
+              stroke="#d3b3b0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -479.428650,82.202797 L -86.108749,294.195526"
+              class="id_people id_intelligent" stroke-opacity="1.0"
+              stroke="#d3b3b0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -479.428650,82.202797 L -416.369293,-54.150227"
+              class="id_people id_heroes" stroke-opacity="1.0" stroke="#d3b3b0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -479.428650,82.202797 L -280.861877,-353.039703"
+              class="id_people id_wanting" stroke-opacity="1.0" stroke="#d3b3b0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -479.428650,82.202797 L 188.048996,-462.329437"
+              class="id_people id_Christians" stroke-opacity="1.0"
+              stroke="#d3b3b0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -479.428650,82.202797 L 433.221741,-78.141014"
+              class="id_people id_nations" stroke-opacity="1.0" stroke="#d3b3b0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -479.428650,82.202797 L -425.516296,325.883789"
+              class="id_people id_differently" stroke-opacity="1.0"
+              stroke="#d3b3b0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -479.428650,82.202797 L 500.079224,-90.349266"
+              class="id_people id_peasants" stroke-opacity="1.0"
+              stroke="#d3b3b0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -479.428650,82.202797 L -138.717697,348.894501"
+              class="id_people id_listeners" stroke-opacity="1.0"
+              stroke="#d3b3b0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -479.428650,82.202797 L -373.071716,439.853546"
+              class="id_people id_officially" stroke-opacity="1.0"
+              stroke="#d3b3b0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -72.717697,-360.966888 L 302.070801,216.486771"
+              class="id_change id_conclusion" stroke-opacity="1.0"
+              stroke="#ff7045"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -72.717697,-360.966888 L -432.438202,213.484146"
+              class="id_change id_prolonged" stroke-opacity="1.0"
+              stroke="#ff7045"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -72.717697,-360.966888 L 221.685654,162.403976"
+              class="id_change id_abrupt" stroke-opacity="1.0" stroke="#ff7045"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -72.717697,-360.966888 L 183.276718,-260.466400"
+              class="id_change id_morphophonemics" stroke-opacity="1.0"
+              stroke="#ff7045"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -72.717697,-360.966888 L 495.869751,-31.894306"
+              class="id_change id_exposure" stroke-opacity="1.0"
+              stroke="#ff7045"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -72.717697,-360.966888 L -182.154526,349.269745"
+              class="id_change id_usefulness" stroke-opacity="1.0"
+              stroke="#ff7045"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -72.717697,-360.966888 L -376.654633,200.054062"
+              class="id_change id_individual&apos;s" stroke-opacity="1.0"
+              stroke="#ff7045"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -72.717697,-360.966888 L 117.663132,-183.832840"
+              class="id_change id_representation" stroke-opacity="1.0"
+              stroke="#ff7045"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -72.717697,-360.966888 L -200.768692,-134.033218"
+              class="id_change id_decay" stroke-opacity="1.0" stroke="#ff7045"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -72.717697,-360.966888 L 304.181458,-368.271820"
+              class="id_change id_weakness" stroke-opacity="1.0"
+              stroke="#ff7045"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -72.717697,-360.966888 L 40.371204,-272.688019"
+              class="id_change id_unfortunately" stroke-opacity="1.0"
+              stroke="#ff7045"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -72.717697,-360.966888 L -437.033203,478.667114"
+              class="id_change id_opponent" stroke-opacity="1.0"
+              stroke="#ff7045"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -72.717697,-360.966888 L 335.992432,105.904579"
+              class="id_change id_accounting" stroke-opacity="1.0"
+              stroke="#ff7045"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -72.717697,-360.966888 L -347.804382,-97.106773"
+              class="id_change id_accelerating" stroke-opacity="1.0"
+              stroke="#ff7045"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -72.717697,-360.966888 L 1.216052,91.799904"
+              class="id_change id_attain" stroke-opacity="1.0" stroke="#ff7045"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -72.717697,-360.966888 L 53.127918,-385.563202"
+              class="id_change id_diagnosis" stroke-opacity="1.0"
+              stroke="#ff7045"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -72.717697,-360.966888 L -103.709061,-402.232941"
+              class="id_change id_projection" stroke-opacity="1.0"
+              stroke="#ff7045"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -72.717697,-360.966888 L -13.924603,244.925034"
+              class="id_change id_vastly" stroke-opacity="1.0" stroke="#ff7045"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -72.717697,-360.966888 L -58.975140,-287.540070"
+              class="id_change id_conformity" stroke-opacity="1.0"
+              stroke="#ff7045"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -72.717697,-360.966888 L 397.607361,-244.575394"
+              class="id_change id_tentative" stroke-opacity="1.0"
+              stroke="#ff7045"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -299.613800,-96.009117 L 401.738647,279.989380"
+              class="id_scientist id_dual" stroke-opacity="1.0" stroke="#00bd94"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -299.613800,-96.009117 L -411.784424,23.429058"
+              class="id_scientist id_Realtors" stroke-opacity="1.0"
+              stroke="#00bd94"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -299.613800,-96.009117 L -242.829605,-422.063751"
+              class="id_scientist id_1832" stroke-opacity="1.0" stroke="#00bd94"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -299.613800,-96.009117 L 494.382874,441.480377"
+              class="id_scientist id_sundry" stroke-opacity="1.0"
+              stroke="#00bd94"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -299.613800,-96.009117 L -439.891998,378.931763"
+              class="id_scientist id_Students" stroke-opacity="1.0"
+              stroke="#00bd94"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -299.613800,-96.009117 L -235.019882,-367.626190"
+              class="id_scientist id_settings" stroke-opacity="1.0"
+              stroke="#00bd94"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -299.613800,-96.009117 L -396.869507,-437.233795"
+              class="id_scientist id_initiated" stroke-opacity="1.0"
+              stroke="#00bd94"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -299.613800,-96.009117 L -320.859741,-372.891876"
+              class="id_scientist id_Religious" stroke-opacity="1.0"
+              stroke="#00bd94"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -299.613800,-96.009117 L -130.310501,-203.426468"
+              class="id_scientist id_recordings" stroke-opacity="1.0"
+              stroke="#00bd94"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -299.613800,-96.009117 L -358.764008,61.701733"
+              class="id_scientist id_statesman" stroke-opacity="1.0"
+              stroke="#00bd94"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -299.613800,-96.009117 L 205.864365,-380.023834"
+              class="id_scientist id_strengthened" stroke-opacity="1.0"
+              stroke="#00bd94"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -299.613800,-96.009117 L 458.314026,127.708382"
+              class="id_scientist id_deficiencies" stroke-opacity="1.0"
+              stroke="#00bd94"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -299.613800,-96.009117 L 383.475708,-439.841644"
+              class="id_scientist id_esprit" stroke-opacity="1.0"
+              stroke="#00bd94"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -299.613800,-96.009117 L -143.685043,158.726242"
+              class="id_scientist id_diplomats" stroke-opacity="1.0"
+              stroke="#00bd94"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -299.613800,-96.009117 L 241.843491,-341.325409"
+              class="id_scientist id_traditionally" stroke-opacity="1.0"
+              stroke="#00bd94"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -299.613800,-96.009117 L -276.365356,-148.596146"
+              class="id_scientist id_Philosophy" stroke-opacity="1.0"
+              stroke="#00bd94"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -299.613800,-96.009117 L -106.671890,17.383648"
+              class="id_scientist id_athletics" stroke-opacity="1.0"
+              stroke="#00bd94"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -299.613800,-96.009117 L 384.060059,204.409897"
+              class="id_scientist id_renaissance" stroke-opacity="1.0"
+              stroke="#00bd94"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -299.613800,-96.009117 L -443.106506,-334.763885"
+              class="id_scientist id_participated" stroke-opacity="1.0"
+              stroke="#00bd94"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -299.613800,-96.009117 L -204.161972,312.542511"
+              class="id_scientist id_reviews" stroke-opacity="1.0"
+              stroke="#00bd94"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 433.844910,-282.594330 L 444.283386,210.728195"
+              class="id_politics id_communism" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 433.844910,-282.594330 L -342.713135,373.606110"
+              class="id_politics id_wars" stroke-opacity="1.0" stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 433.844910,-282.594330 L -261.751678,-215.417252"
+              class="id_politics id_realm" stroke-opacity="1.0" stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 433.844910,-282.594330 L -50.387188,175.615921"
+              class="id_politics id_Plato&apos;s" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 433.844910,-282.594330 L 265.003601,376.671173"
+              class="id_politics id_ideology" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 433.844910,-282.594330 L 405.148438,-167.823624"
+              class="id_politics id_capitalism" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 433.844910,-282.594330 L -241.045670,-225.563797"
+              class="id_politics id_sentiment" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 433.844910,-282.594330 L -104.805466,-327.027924"
+              class="id_politics id_coexistence" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 433.844910,-282.594330 L 133.142990,-290.884064"
+              class="id_politics id_criticism" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 433.844910,-282.594330 L 339.154541,-385.488251"
+              class="id_politics id_Utopian" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 433.844910,-282.594330 L 110.305527,350.227081"
+              class="id_politics id_secular" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 433.844910,-282.594330 L 405.916321,-269.048920"
+              class="id_politics id_civilized" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 433.844910,-282.594330 L 235.685837,318.467804"
+              class="id_politics id_intuition" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 433.844910,-282.594330 L -63.314434,-216.997391"
+              class="id_politics id_peaceful" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 433.844910,-282.594330 L -234.402664,-185.571854"
+              class="id_politics id_liberalism" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 433.844910,-282.594330 L 11.259112,-435.225861"
+              class="id_politics id_Whitehead" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 433.844910,-282.594330 L -302.877899,-151.299881"
+              class="id_politics id_intellectual" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 433.844910,-282.594330 L 369.200623,408.820801"
+              class="id_politics id_equality" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 433.844910,-282.594330 L -113.487656,307.178192"
+              class="id_politics id_relate" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 433.844910,-282.594330 L 460.847839,108.162025"
+              class="id_politics id_customs" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -111.711624,455.849213 L 43.584339,168.280502"
+              class="id_hero id_painter" stroke-opacity="1.0" stroke="#ff5584"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -111.711624,455.849213 L -439.642426,375.632111"
+              class="id_hero id_romantic" stroke-opacity="1.0" stroke="#ff5584"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -111.711624,455.849213 L -65.945755,-260.355988"
+              class="id_hero id_magnificent" stroke-opacity="1.0"
+              stroke="#ff5584"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -111.711624,455.849213 L 396.272705,-362.617767"
+              class="id_hero id_scholar" stroke-opacity="1.0" stroke="#ff5584"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -111.711624,455.849213 L -348.293823,290.111450"
+              class="id_hero id_blessing" stroke-opacity="1.0" stroke="#ff5584"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -111.711624,455.849213 L 120.904282,-326.547882"
+              class="id_hero id_Eve" stroke-opacity="1.0" stroke="#ff5584"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -111.711624,455.849213 L 111.740585,-168.828201"
+              class="id_hero id_Southerner" stroke-opacity="1.0"
+              stroke="#ff5584"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -111.711624,455.849213 L -350.447571,-265.309418"
+              class="id_hero id_resembles" stroke-opacity="1.0" stroke="#ff5584"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -111.711624,455.849213 L -177.430527,303.430573"
+              class="id_hero id_genius" stroke-opacity="1.0" stroke="#ff5584"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -111.711624,455.849213 L -176.772659,-201.363297"
+              class="id_hero id_recalls" stroke-opacity="1.0" stroke="#ff5584"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -111.711624,455.849213 L -471.132080,157.087204"
+              class="id_hero id_hymn" stroke-opacity="1.0" stroke="#ff5584"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -111.711624,455.849213 L -375.609558,-67.609520"
+              class="id_hero id_Holmes" stroke-opacity="1.0" stroke="#ff5584"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -111.711624,455.849213 L 347.485046,460.937469"
+              class="id_hero id_Love" stroke-opacity="1.0" stroke="#ff5584"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -111.711624,455.849213 L -127.369431,-373.012360"
+              class="id_hero id_revealing" stroke-opacity="1.0" stroke="#ff5584"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -111.711624,455.849213 L -152.826218,-263.839996"
+              class="id_hero id_Book" stroke-opacity="1.0" stroke="#ff5584"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -111.711624,455.849213 L 371.254456,447.484863"
+              class="id_hero id_critic" stroke-opacity="1.0" stroke="#ff5584"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -111.711624,455.849213 L -241.552353,499.231079"
+              class="id_hero id_Arnolphe" stroke-opacity="1.0" stroke="#ff5584"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -111.711624,455.849213 L 226.744186,-9.574970"
+              class="id_hero id_Holy" stroke-opacity="1.0" stroke="#ff5584"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -111.711624,455.849213 L -483.522308,-244.851639"
+              class="id_hero id_fascinating" stroke-opacity="1.0"
+              stroke="#ff5584"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -111.711624,455.849213 L -404.736145,-243.438309"
+              class="id_hero id_Utopia" stroke-opacity="1.0" stroke="#ff5584"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -111.711624,455.849213 L 476.655151,201.038467"
+              class="id_hero id_story" stroke-opacity="1.0" stroke="#ff5584"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 476.655151,201.038467 L -362.209045,407.729462"
+              class="id_story id_tells" stroke-opacity="1.0" stroke="#ff5584"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 476.655151,201.038467 L 423.872131,131.683304"
+              class="id_story id_gift" stroke-opacity="1.0" stroke="#ff5584"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 476.655151,201.038467 L 10.636157,-251.911453"
+              class="id_story id_Jew" stroke-opacity="1.0" stroke="#ff5584"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 476.655151,201.038467 L -151.174911,222.089523"
+              class="id_story id_writer" stroke-opacity="1.0" stroke="#ff5584"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 476.655151,201.038467 L -460.768097,-154.522049"
+              class="id_story id_actor" stroke-opacity="1.0" stroke="#ff5584"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 476.655151,201.038467 L 347.485046,460.937469"
+              class="id_story id_Love" stroke-opacity="1.0" stroke="#ff5584"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 476.655151,201.038467 L -210.670090,-186.269302"
+              class="id_story id_stories" stroke-opacity="1.0" stroke="#ff5584"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 476.655151,201.038467 L -348.293823,290.111450"
+              class="id_story id_blessing" stroke-opacity="1.0" stroke="#ff5584"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 476.655151,201.038467 L 223.715439,-203.479874"
+              class="id_story id_habit" stroke-opacity="1.0" stroke="#ff5584"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 476.655151,201.038467 L -67.663681,215.234970"
+              class="id_story id_essay" stroke-opacity="1.0" stroke="#ff5584"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 476.655151,201.038467 L -319.539246,389.439209"
+              class="id_story id_humor" stroke-opacity="1.0" stroke="#ff5584"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 476.655151,201.038467 L -483.522308,-244.851639"
+              class="id_story id_fascinating" stroke-opacity="1.0"
+              stroke="#ff5584"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 476.655151,201.038467 L -257.570190,205.007156"
+              class="id_story id_irony" stroke-opacity="1.0" stroke="#ff5584"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 476.655151,201.038467 L 311.537476,-190.760818"
+              class="id_story id_confession" stroke-opacity="1.0"
+              stroke="#ff5584"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 476.655151,201.038467 L 350.616699,-268.705841"
+              class="id_story id_woman&apos;s" stroke-opacity="1.0"
+              stroke="#ff5584"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 476.655151,201.038467 L -182.567886,-452.140900"
+              class="id_story id_remarked" stroke-opacity="1.0" stroke="#ff5584"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 476.655151,201.038467 L 176.768478,411.573700"
+              class="id_story id_Herr" stroke-opacity="1.0" stroke="#ff5584"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 476.655151,201.038467 L -486.244141,-309.824921"
+              class="id_story id_proud" stroke-opacity="1.0" stroke="#ff5584"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 476.655151,201.038467 L -77.282639,243.833206"
+              class="id_story id_Larkin" stroke-opacity="1.0" stroke="#ff5584"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 96.443832,95.302040 L -39.485485,222.301620"
+              class="id_truth id_salvation" stroke-opacity="1.0"
+              stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 96.443832,95.302040 L 136.475021,277.266907"
+              class="id_truth id_absurd" stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 96.443832,95.302040 L -258.382507,-47.017414"
+              class="id_truth id_grace" stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 96.443832,95.302040 L -107.230484,293.630554"
+              class="id_truth id_deeper" stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 96.443832,95.302040 L -157.346146,51.947552"
+              class="id_truth id_sacred" stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 96.443832,95.302040 L 261.074097,-177.047073"
+              class="id_truth id_mankind" stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 96.443832,95.302040 L -33.433056,90.944862"
+              class="id_truth id_humble" stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 96.443832,95.302040 L 429.465149,88.547523"
+              class="id_truth id_badness" stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 96.443832,95.302040 L 139.527267,58.515759"
+              class="id_truth id_sin" stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 96.443832,95.302040 L 299.707275,-176.250443"
+              class="id_truth id_passion" stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 96.443832,95.302040 L 102.824203,421.689270"
+              class="id_truth id_hopeless" stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 96.443832,95.302040 L -278.378845,445.973877"
+              class="id_truth id_convinced" stroke-opacity="1.0"
+              stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 96.443832,95.302040 L -305.150879,-239.220596"
+              class="id_truth id_understandable" stroke-opacity="1.0"
+              stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 96.443832,95.302040 L -404.736145,-243.438309"
+              class="id_truth id_Utopia" stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 96.443832,95.302040 L 130.019333,-83.018944"
+              class="id_truth id_fate" stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 96.443832,95.302040 L 332.259460,-99.802452"
+              class="id_truth id_contrary" stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 96.443832,95.302040 L -26.896345,-117.961815"
+              class="id_truth id_certainty" stroke-opacity="1.0"
+              stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 96.443832,95.302040 L -379.233917,-249.118362"
+              class="id_truth id_implies" stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 96.443832,95.302040 L 63.266651,-411.057526"
+              class="id_truth id_virtue" stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 96.443832,95.302040 L 130.648727,-365.824310"
+              class="id_truth id_paradox" stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -385.633118,452.764557 L -5.012738,221.172409"
+              class="id_lies id_rejects" stroke-opacity="1.0" stroke="#ff7045"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -385.633118,452.764557 L 79.401169,-367.449127"
+              class="id_lies id_hypothesis" stroke-opacity="1.0"
+              stroke="#ff7045"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -385.633118,452.764557 L 341.248535,159.024216"
+              class="id_lies id_tendency" stroke-opacity="1.0" stroke="#ff7045"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -385.633118,452.764557 L -223.647385,18.829937"
+              class="id_lies id_essence" stroke-opacity="1.0" stroke="#ff7045"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -385.633118,452.764557 L -433.999817,-305.172028"
+              class="id_lies id_Aristotle&apos;s" stroke-opacity="1.0"
+              stroke="#ff7045"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -385.633118,452.764557 L 482.549805,-17.232563"
+              class="id_lies id_moreover" stroke-opacity="1.0" stroke="#ff7045"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -385.633118,452.764557 L -125.614090,488.828918"
+              class="id_lies id_ultimately" stroke-opacity="1.0"
+              stroke="#ff7045"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -385.633118,452.764557 L -437.033203,478.667114"
+              class="id_lies id_opponent" stroke-opacity="1.0" stroke="#ff7045"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -385.633118,452.764557 L -107.230484,293.630554"
+              class="id_lies id_deeper" stroke-opacity="1.0" stroke="#ff7045"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -385.633118,452.764557 L -326.116028,-290.220001"
+              class="id_lies id_genuinely" stroke-opacity="1.0" stroke="#ff7045"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -385.633118,452.764557 L -414.139465,525.518311"
+              class="id_lies id_sociology" stroke-opacity="1.0" stroke="#ff7045"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -385.633118,452.764557 L -392.847992,141.383621"
+              class="id_lies id_entails" stroke-opacity="1.0" stroke="#ff7045"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -385.633118,452.764557 L -245.408722,55.734295"
+              class="id_lies id_viewpoint" stroke-opacity="1.0" stroke="#ff7045"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -385.633118,452.764557 L -191.534103,-324.389435"
+              class="id_lies id_render" stroke-opacity="1.0" stroke="#ff7045"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -385.633118,452.764557 L -253.108017,47.940289"
+              class="id_lies id_termination" stroke-opacity="1.0"
+              stroke="#ff7045"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -385.633118,452.764557 L -103.709061,-402.232941"
+              class="id_lies id_projection" stroke-opacity="1.0"
+              stroke="#ff7045"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -385.633118,452.764557 L -58.975140,-287.540070"
+              class="id_lies id_conformity" stroke-opacity="1.0"
+              stroke="#ff7045"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -385.633118,452.764557 L -395.596375,-36.864460"
+              class="id_lies id_tensions" stroke-opacity="1.0" stroke="#ff7045"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -385.633118,452.764557 L -247.962250,178.923111"
+              class="id_lies id_Poetics" stroke-opacity="1.0" stroke="#ff7045"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -385.633118,452.764557 L 98.518661,-178.945816"
+              class="id_lies id_non-violent" stroke-opacity="1.0"
+              stroke="#ff7045"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -293.339172,-48.161152 L -249.338409,369.740265"
+              class="id_good id_nurse" stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -293.339172,-48.161152 L -142.017899,-397.193939"
+              class="id_good id_bad" stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -293.339172,-48.161152 L 59.304432,121.216011"
+              class="id_good id_tastes" stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -293.339172,-48.161152 L 294.034241,317.081207"
+              class="id_good id_who&apos;s" stroke-opacity="1.0"
+              stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -293.339172,-48.161152 L 30.433764,313.726990"
+              class="id_good id_promising" stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -293.339172,-48.161152 L -442.118622,383.292725"
+              class="id_good id_Tommy" stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -293.339172,-48.161152 L -77.282639,243.833206"
+              class="id_good id_Larkin" stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -293.339172,-48.161152 L -399.927490,18.695904"
+              class="id_good id_blend" stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -293.339172,-48.161152 L -474.007202,-409.844269"
+              class="id_good id_supposed" stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -293.339172,-48.161152 L 173.291855,-139.489822"
+              class="id_good id_joke" stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -293.339172,-48.161152 L -168.269455,312.085999"
+              class="id_good id_lucky" stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -293.339172,-48.161152 L -219.919998,428.889191"
+              class="id_good id_cartoons" stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -293.339172,-48.161152 L -260.355408,-416.233185"
+              class="id_good id_Askington" stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -293.339172,-48.161152 L 421.181335,-70.328880"
+              class="id_good id_promise" stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -293.339172,-48.161152 L -15.245496,-274.691132"
+              class="id_good id_likes" stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -293.339172,-48.161152 L 204.967636,-264.246002"
+              class="id_good id_stubborn" stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -293.339172,-48.161152 L -296.339233,244.867142"
+              class="id_good id_inspiring" stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -293.339172,-48.161152 L 60.772205,-335.181671"
+              class="id_good id_hasn&apos;t" stroke-opacity="1.0"
+              stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -293.339172,-48.161152 L 489.496277,-295.768646"
+              class="id_good id_regret" stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -293.339172,-48.161152 L 127.593491,395.424286"
+              class="id_good id_hebephrenic" stroke-opacity="1.0"
+              stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -142.017899,-397.193939 L -318.165710,427.242584"
+              class="id_bad id_pause" stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -142.017899,-397.193939 L 11.803790,-13.216938"
+              class="id_bad id_goodness" stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -142.017899,-397.193939 L 363.017761,-406.026337"
+              class="id_bad id_positivist" stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -142.017899,-397.193939 L -16.527723,-10.034321"
+              class="id_bad id_pretend" stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -142.017899,-397.193939 L 173.978745,395.448212"
+              class="id_bad id_immortal" stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -142.017899,-397.193939 L -161.859695,129.522720"
+              class="id_bad id_linguist" stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -142.017899,-397.193939 L 173.291855,-139.489822"
+              class="id_bad id_joke" stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -142.017899,-397.193939 L 429.465149,88.547523"
+              class="id_bad id_badness" stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -142.017899,-397.193939 L -14.534192,524.257568"
+              class="id_bad id_panic" stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -142.017899,-397.193939 L -410.637878,-5.551045"
+              class="id_bad id_rabbit" stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -142.017899,-397.193939 L -335.298645,345.772736"
+              class="id_bad id_foolish" stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -142.017899,-397.193939 L 377.052002,-393.861725"
+              class="id_bad id_disbelief" stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -142.017899,-397.193939 L -337.159607,-367.267426"
+              class="id_bad id_Johnnie" stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -142.017899,-397.193939 L -22.346083,128.435440"
+              class="id_bad id_devil" stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -142.017899,-397.193939 L -84.794907,-247.174088"
+              class="id_bad id_Jubal" stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -142.017899,-397.193939 L 84.377609,351.100739"
+              class="id_bad id_hears" stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -142.017899,-397.193939 L -405.879639,-325.527496"
+              class="id_bad id_bothering" stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -142.017899,-397.193939 L 89.220810,-87.032494"
+              class="id_bad id_sitter" stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -142.017899,-397.193939 L -416.722748,100.341621"
+              class="id_bad id_upset" stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -142.017899,-397.193939 L 443.224304,-465.220673"
+              class="id_bad id_sensible" stroke-opacity="1.0" stroke="#d97dd8"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="35" x="-74.49275" y="393.00955" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_science">
+            science
+        </text>
+        <text font-size="35" x="269.85876" y="280.85043" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_fear">
+            fear
+        </text>
+        <text font-size="35" x="430.88837" y="-44.26491" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_climate">
+            climate
+        </text>
+        <text font-size="36" x="-367.16687" y="203.66731" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_liberty">
+            liberty
+        </text>
+        <text font-size="35" x="331.42566" y="252.22128" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_justice">
+            justice
+        </text>
+        <text font-size="35" x="236.38359" y="-406.89713" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_culture">
+            culture
+        </text>
+        <text font-size="35" x="-144.97777" y="401.26294" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_money">
+            money
+        </text>
+        <text font-size="35" x="-385.48193" y="-247.8426" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_environment">
+            environment
+        </text>
+        <text font-size="35" x="257.49725" y="-151.59143" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_freedom">
+            freedom
+        </text>
+        <text font-size="35" x="-479.42865" y="90.20654" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_people">
+            people
+        </text>
+        <text font-size="35" x="-72.7177" y="-352.8606" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_change">
+            change
+        </text>
+        <text font-size="35" x="-299.6138" y="-89.64315" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_scientist">
+            scientist
+        </text>
+        <text font-size="35" x="433.8449" y="-274.59058" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_politics">
+            politics
+        </text>
+        <text font-size="36" x="-111.711624" y="462.39706" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_hero">
+            hero
+        </text>
+        <text font-size="35" x="476.65515" y="209.00519" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_story">
+            story
+        </text>
+        <text font-size="35" x="96.44383" y="101.66801" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_truth">
+            truth
+        </text>
+        <text font-size="35" x="-385.63312" y="459.13052" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_lies">
+            lies
+        </text>
+        <text font-size="35" x="-293.33917" y="-40.05487" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_good">
+            good
+        </text>
+        <text font-size="36" x="-142.0179" y="-390.6461" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_bad">
+            bad
+        </text>
+        <text font-size="12" x="93.42833" y="-154.29799" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_philosophy">
+            philosophy
+        </text>
+        <text font-size="14" x="-302.8779" y="-148.7535" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_intellectual">
+            intellectual
+        </text>
+        <text font-size="12" x="507.95642" y="-379.59012" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_ethics">
+            ethics
+        </text>
+        <text font-size="12" x="-104.87099" y="-175.34004" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_sciences">
+            sciences
+        </text>
+        <text font-size="12" x="-264.78717" y="471.89047" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_fiction">
+            fiction
+        </text>
+        <text font-size="13" x="436.57294" y="-201.08925" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_excellence">
+            excellence
+        </text>
+        <text font-size="12" x="-400.57428" y="81.99375" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_reflects">
+            reflects
+        </text>
+        <text font-size="12" x="339.8418" y="446.85312" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_underlying">
+            underlying
+        </text>
+        <text font-size="14" x="-261.75168" y="-212.87086" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_realm">
+            realm
+        </text>
+        <text font-size="12" x="-342.15735" y="285.4808" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_philosophical">
+            philosophical
+        </text>
+        <text font-size="12" x="191.75945" y="202.63185" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_psychology">
+            psychology
+        </text>
+        <text font-size="12" x="-118.55574" y="-185.26082" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_aesthetic">
+            aesthetic
+        </text>
+        <text font-size="13" x="259.6996" y="3.4198208" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Religion">
+            Religion
+        </text>
+        <text font-size="13" x="133.14299" y="-288.51956" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_criticism">
+            criticism
+        </text>
+        <text font-size="12" x="-231.18257" y="-245.26424" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_adolescent">
+            adolescent
+        </text>
+        <text font-size="12" x="-7.4652224" y="255.53242" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_discipline">
+            discipline
+        </text>
+        <text font-size="13" x="361.93164" y="-118.92967" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_supernatural">
+            supernatural
+        </text>
+        <text font-size="12" x="-469.47144" y="465.48135" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_metaphysics">
+            metaphysics
+        </text>
+        <text font-size="12" x="-328.71442" y="-21.14803" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_vitality">
+            vitality
+        </text>
+        <text font-size="12" x="145.8372" y="163.73817" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_importance">
+            importance
+        </text>
+        <text font-size="12" x="271.00177" y="-153.41731" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_suffer">
+            suffer
+        </text>
+        <text font-size="12" x="95.13396" y="421.27237" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_humanity">
+            humanity
+        </text>
+        <text font-size="12" x="116.918015" y="-369.33328" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_blessed">
+            blessed
+        </text>
+        <text font-size="12" x="187.36357" y="-470.5051" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_insane">
+            insane
+        </text>
+        <text font-size="12" x="-223.18513" y="-419.3865" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_dwell">
+            dwell
+        </text>
+        <text font-size="12" x="-26.949873" y="-188.34407" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_tempted">
+            tempted
+        </text>
+        <text font-size="13" x="130.01933" y="-80.61424" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_fate">
+            fate
+        </text>
+        <text font-size="12" x="-98.956894" y="200.25179" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_confusion">
+            confusion
+        </text>
+        <text font-size="12" x="372.59747" y="316.23746" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_mortal">
+            mortal
+        </text>
+        <text font-size="12" x="337.99634" y="-353.738" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_possibly">
+            possibly
+        </text>
+        <text font-size="13" x="102.8242" y="424.66208" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_hopeless">
+            hopeless
+        </text>
+        <text font-size="12" x="49.97582" y="-61.709614" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_sensed">
+            sensed
+        </text>
+        <text font-size="12" x="-18.653639" y="-144.35909" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_dispelled">
+            dispelled
+        </text>
+        <text font-size="12" x="-269.0566" y="-384.88644" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_negotiate">
+            negotiate
+        </text>
+        <text font-size="12" x="-38.570263" y="-112.677025" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_lose">
+            lose
+        </text>
+        <text font-size="14" x="429.46515" y="91.09391" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_badness">
+            badness
+        </text>
+        <text font-size="12" x="366.90936" y="37.54936" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_vulnerable">
+            vulnerable
+        </text>
+        <text font-size="13" x="272.84515" y="160.13199" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_acknowledge">
+            acknowledge
+        </text>
+        <text font-size="12" x="158.93785" y="490.63547" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_creatures">
+            creatures
+        </text>
+        <text font-size="12" x="-283.01324" y="421.44998" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_remind">
+            remind
+        </text>
+        <text font-size="14" x="-422.647" y="167.5612" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_enthusiasm">
+            enthusiasm
+        </text>
+        <text font-size="12" x="-339.36597" y="145.14131" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_educate">
+            educate
+        </text>
+        <text font-size="12" x="-31.53697" y="-11.606403" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_precious">
+            precious
+        </text>
+        <text font-size="12" x="154.24998" y="418.78488" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_helping">
+            helping
+        </text>
+        <text font-size="12" x="18.27434" y="-365.24875" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_lacked">
+            lacked
+        </text>
+        <text font-size="13" x="106.63689" y="317.33554" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_expose">
+            expose
+        </text>
+        <text font-size="13" x="-201.33781" y="-180.78976" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_loyalty">
+            loyalty
+        </text>
+        <text font-size="14" x="346.50757" y="132.43721" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_unite">
+            unite
+        </text>
+        <text font-size="12" x="3.7131224" y="-262.10648" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_withdraw">
+            withdraw
+        </text>
+        <text font-size="12" x="-368.43237" y="475.18936" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_motivation">
+            motivation
+        </text>
+        <text font-size="12" x="504.4427" y="71.29853" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_planners">
+            planners
+        </text>
+        <text font-size="12" x="-285.73026" y="358.44025" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_modest">
+            modest
+        </text>
+        <text font-size="12" x="-117.68025" y="443.4698" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_realistically">
+            realistically
+        </text>
+        <text font-size="12" x="371.25275" y="50.411633" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_disaster">
+            disaster
+        </text>
+        <text font-size="12" x="-84.49516" y="-83.12307" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_enjoyment">
+            enjoyment
+        </text>
+        <text font-size="12" x="382.58038" y="-282.51358" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_concessions">
+            concessions
+        </text>
+        <text font-size="12" x="86.436264" y="-415.91678" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_prey">
+            prey
+        </text>
+        <text font-size="12" x="-192.75417" y="517.76746" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_grips">
+            grips
+        </text>
+        <text font-size="12" x="55.37517" y="-113.65267" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_exploit">
+            exploit
+        </text>
+        <text font-size="12" x="-456.99066" y="-56.598103" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_sacrifice">
+            sacrifice
+        </text>
+        <text font-size="12" x="-298.25397" y="-251.98293" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_challenge">
+            challenge
+        </text>
+        <text font-size="13" x="81.48796" y="-175.87503" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_preserve">
+            preserve
+        </text>
+        <text font-size="12" x="-226.41331" y="109.69749" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_urgent">
+            urgent
+        </text>
+        <text font-size="12" x="-426.48077" y="440.30417" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_ardent">
+            ardent
+        </text>
+        <text font-size="14" x="405.14844" y="-164.62213" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_capitalism">
+            capitalism
+        </text>
+        <text font-size="12" x="-194.83083" y="-222.62111" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_heritage">
+            heritage
+        </text>
+        <text font-size="12" x="-236.33781" y="389.5265" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_brethren">
+            brethren
+        </text>
+        <text font-size="14" x="451.36115" y="-85.28329" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_democratic">
+            democratic
+        </text>
+        <text font-size="12" x="-131.48482" y="51.43324" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_hostile">
+            hostile
+        </text>
+        <text font-size="12" x="21.948046" y="59.063274" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Communism">
+            Communism
+        </text>
+        <text font-size="12" x="189.5573" y="-267.06174" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_trust">
+            trust
+        </text>
+        <text font-size="12" x="244.15733" y="-360.6616" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_threaten">
+            threaten
+        </text>
+        <text font-size="12" x="-24.016035" y="-177.378" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_disarmament">
+            disarmament
+        </text>
+        <text font-size="13" x="235.68584" y="320.8323" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_intuition">
+            intuition
+        </text>
+        <text font-size="12" x="393.219" y="-295.80692" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_arose">
+            arose
+        </text>
+        <text font-size="12" x="-285.67468" y="-334.36288" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_intentions">
+            intentions
+        </text>
+        <text font-size="12" x="452.44604" y="-130.1103" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Khrushchev&apos;s">
+            Khrushchev&apos;s
+        </text>
+        <text font-size="12" x="-337.14972" y="521.6351" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_treaty">
+            treaty
+        </text>
+        <text font-size="13" x="405.91632" y="-266.68442" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_civilized">
+            civilized
+        </text>
+        <text font-size="12" x="322.00092" y="30.347942" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_intent">
+            intent
+        </text>
+        <text font-size="12" x="-249.11609" y="458.29364" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_self-determination">
+            self-determination
+        </text>
+        <text font-size="12" x="119.74675" y="458.95798" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Charter">
+            Charter
+        </text>
+        <text font-size="12" x="235.99913" y="232.31126" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_enforce">
+            enforce
+        </text>
+        <text font-size="12" x="161.61632" y="-222.49629" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_agrees">
+            agrees
+        </text>
+        <text font-size="12" x="296.21533" y="-447.95078" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Trujillo">
+            Trujillo
+        </text>
+        <text font-size="12" x="204.73204" y="172.16551" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_asserted">
+            asserted
+        </text>
+        <text font-size="12" x="155.74144" y="165.29424" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_appealed">
+            appealed
+        </text>
+        <text font-size="12" x="-382.7113" y="346.63324" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_reminds">
+            reminds
+        </text>
+        <text font-size="12" x="433.30005" y="374.2537" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_supreme">
+            supreme
+        </text>
+        <text font-size="12" x="-314.4328" y="-356.76028" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_inspired">
+            inspired
+        </text>
+        <text font-size="12" x="459.9254" y="415.11554" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_anti-Semitism">
+            anti-Semitism
+        </text>
+        <text font-size="12" x="-227.8238" y="-360.89072" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_civilization">
+            civilization
+        </text>
+        <text font-size="12" x="-323.23492" y="-371.8436" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_nineteenth-century">
+            nineteenth-century
+        </text>
+        <text font-size="12" x="252.06572" y="-11.120869" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_religions">
+            religions
+        </text>
+        <text font-size="12" x="418.82227" y="96.12272" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_twentieth-century">
+            twentieth-century
+        </text>
+        <text font-size="12" x="-143.04198" y="-180.52534" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_traditions">
+            traditions
+        </text>
+        <text font-size="13" x="110.30553" y="352.59158" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_secular">
+            secular
+        </text>
+        <text font-size="12" x="44.19402" y="76.24009" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_historical">
+            historical
+        </text>
+        <text font-size="12" x="398.2268" y="-344.63864" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_theological">
+            theological
+        </text>
+        <text font-size="12" x="272.59338" y="-338.25894" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_monastic">
+            monastic
+        </text>
+        <text font-size="12" x="33.116383" y="188.89888" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_emerges">
+            emerges
+        </text>
+        <text font-size="12" x="-384.22104" y="242.22899" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_revolutionary">
+            revolutionary
+        </text>
+        <text font-size="13" x="369.20062" y="411.8317" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_equality">
+            equality
+        </text>
+        <text font-size="12" x="-27.482618" y="-0.9518018" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Christianity">
+            Christianity
+        </text>
+        <text font-size="12" x="201.11205" y="525.9805" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_elite">
+            elite
+        </text>
+        <text font-size="12" x="243.98003" y="-455.14774" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_unity">
+            unity
+        </text>
+        <text font-size="12" x="280.18207" y="-119.04348" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_paid">
+            paid
+        </text>
+        <text font-size="12" x="239.42845" y="-418.8398" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_pay">
+            pay
+        </text>
+        <text font-size="12" x="260.5896" y="-211.01485" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_raise">
+            raise
+        </text>
+        <text font-size="12" x="-255.31807" y="-252.3752" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_bills">
+            bills
+        </text>
+        <text font-size="12" x="14.117175" y="21.890545" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_debts">
+            debts
+        </text>
+        <text font-size="12" x="141.82481" y="411.3823" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_dollar">
+            dollar
+        </text>
+        <text font-size="12" x="221.99248" y="-139.81996" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_buy">
+            buy
+        </text>
+        <text font-size="12" x="203.96367" y="-45.76186" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_hospital">
+            hospital
+        </text>
+        <text font-size="12" x="-96.730545" y="269.63312" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_worries">
+            worries
+        </text>
+        <text font-size="12" x="205.44554" y="350.14987" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_household">
+            household
+        </text>
+        <text font-size="12" x="71.4301" y="376.28" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_spending">
+            spending
+        </text>
+        <text font-size="12" x="285.80054" y="-423.23227" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_borrow">
+            borrow
+        </text>
+        <text font-size="12" x="24.364061" y="-26.57497" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_care">
+            care
+        </text>
+        <text font-size="12" x="84.77263" y="-435.3348" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_collect">
+            collect
+        </text>
+        <text font-size="12" x="-132.38951" y="407.11118" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_paying">
+            paying
+        </text>
+        <text font-size="12" x="26.155565" y="91.195045" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Stacy">
+            Stacy
+        </text>
+        <text font-size="12" x="-253.27756" y="-377.7042" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_full-time">
+            full-time
+        </text>
+        <text font-size="12" x="269.75055" y="121.26661" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_dentist">
+            dentist
+        </text>
+        <text font-size="12" x="-78.15874" y="-250.72682" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_sell">
+            sell
+        </text>
+        <text font-size="12" x="273.6159" y="-268.05667" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_stay">
+            stay
+        </text>
+        <text font-size="12" x="256.0442" y="-39.087055" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_logical">
+            logical
+        </text>
+        <text font-size="12" x="112.87883" y="-217.27962" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_entities">
+            entities
+        </text>
+        <text font-size="12" x="-91.24382" y="-156.05641" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_perceptions">
+            perceptions
+        </text>
+        <text font-size="12" x="186.73131" y="92.31983" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_pathological">
+            pathological
+        </text>
+        <text font-size="12" x="26.491991" y="-113.38979" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_consequently">
+            consequently
+        </text>
+        <text font-size="12" x="-288.16486" y="-181.3249" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_cosmic">
+            cosmic
+        </text>
+        <text font-size="12" x="5.4227476" y="49.055614" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_stability">
+            stability
+        </text>
+        <text font-size="12" x="448.2102" y="287.8313" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_validity">
+            validity
+        </text>
+        <text font-size="12" x="463.7362" y="-263.73917" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_impersonal">
+            impersonal
+        </text>
+        <text font-size="12" x="432.78387" y="388.39377" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_therapeutic">
+            therapeutic
+        </text>
+        <text font-size="12" x="406.48767" y="-217.3514" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_explore">
+            explore
+        </text>
+        <text font-size="12" x="106.13005" y="131.82097" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_everyday">
+            everyday
+        </text>
+        <text font-size="13" x="191.61491" y="334.98132" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_cope">
+            cope
+        </text>
+        <text font-size="12" x="109.52727" y="-199.0113" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_proceed">
+            proceed
+        </text>
+        <text font-size="12" x="-186.98418" y="-235.95631" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_compounded">
+            compounded
+        </text>
+        <text font-size="13" x="202.3184" y="500.011" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_readiness">
+            readiness
+        </text>
+        <text font-size="12" x="-294.93378" y="-66.4349" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_conditioned">
+            conditioned
+        </text>
+        <text font-size="12" x="203.65483" y="-279.82516" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_comprehension">
+            comprehension
+        </text>
+        <text font-size="12" x="-257.32043" y="359.71" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_empirical">
+            empirical
+        </text>
+        <text font-size="12" x="-401.94012" y="-178.33614" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_creates">
+            creates
+        </text>
+        <text font-size="12" x="361.9886" y="-100.21609" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_struggle">
+            struggle
+        </text>
+        <text font-size="13" x="460.84784" y="110.474686" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_customs">
+            customs
+        </text>
+        <text font-size="13" x="-241.04567" y="-223.1993" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_sentiment">
+            sentiment
+        </text>
+        <text font-size="13" x="-342.71313" y="375.36758" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_wars">
+            wars
+        </text>
+        <text font-size="13" x="-63.314434" y="-213.98438" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_peaceful">
+            peaceful
+        </text>
+        <text font-size="12" x="-151.50533" y="494.94537" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_prosperity">
+            prosperity
+        </text>
+        <text font-size="12" x="-33.023113" y="-397.6282" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_demands">
+            demands
+        </text>
+        <text font-size="12" x="-302.5911" y="-168.84065" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_pro-Western">
+            pro-Western
+        </text>
+        <text font-size="12" x="207.55168" y="149.34956" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_survival">
+            survival
+        </text>
+        <text font-size="12" x="-190.2264" y="-180.21461" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_dedication">
+            dedication
+        </text>
+        <text font-size="12" x="373.7223" y="-69.466576" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_protest">
+            protest
+        </text>
+        <text font-size="12" x="367.93762" y="209.49287" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_genuine">
+            genuine
+        </text>
+        <text font-size="12" x="301.6548" y="241.81667" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Negroes">
+            Negroes
+        </text>
+        <text font-size="12" x="119.35881" y="4.1840014" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Americans">
+            Americans
+        </text>
+        <text font-size="12" x="-39.844036" y="75.460396" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_prefer">
+            prefer
+        </text>
+        <text font-size="12" x="367.0633" y="211.71864" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_friendly">
+            friendly
+        </text>
+        <text font-size="12" x="-231.12825" y="430.2703" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Southerners">
+            Southerners
+        </text>
+        <text font-size="12" x="-124.09346" y="-40.74654" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_reluctant">
+            reluctant
+        </text>
+        <text font-size="12" x="-436.98248" y="-379.06503" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_eager">
+            eager
+        </text>
+        <text font-size="12" x="156.33922" y="-418.94754" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_artists">
+            artists
+        </text>
+        <text font-size="12" x="-391.76602" y="-4.386372" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_whites">
+            whites
+        </text>
+        <text font-size="12" x="416.47705" y="-343.84213" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_horrible">
+            horrible
+        </text>
+        <text font-size="12" x="-86.10875" y="296.97482" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_intelligent">
+            intelligent
+        </text>
+        <text font-size="12" x="-416.3693" y="-51.96761" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_heroes">
+            heroes
+        </text>
+        <text font-size="12" x="-280.86188" y="-350.2604" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_wanting">
+            wanting
+        </text>
+        <text font-size="12" x="188.049" y="-460.10776" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Christians">
+            Christians
+        </text>
+        <text font-size="12" x="433.22174" y="-75.9584" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_nations">
+            nations
+        </text>
+        <text font-size="12" x="-425.5163" y="328.7002" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_differently">
+            differently
+        </text>
+        <text font-size="12" x="500.07922" y="-87.65298" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_peasants">
+            peasants
+        </text>
+        <text font-size="12" x="-138.7177" y="351.07712" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_listeners">
+            listeners
+        </text>
+        <text font-size="12" x="-373.07172" y="442.66995" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_officially">
+            officially
+        </text>
+        <text font-size="12" x="302.0708" y="218.66939" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_conclusion">
+            conclusion
+        </text>
+        <text font-size="12" x="-432.4382" y="216.26344" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_prolonged">
+            prolonged
+        </text>
+        <text font-size="12" x="221.68565" y="165.14812" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_abrupt">
+            abrupt
+        </text>
+        <text font-size="12" x="183.27672" y="-257.72226" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_morphophonemics">
+            morphophonemics
+        </text>
+        <text font-size="12" x="495.86975" y="-29.706806" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_exposure">
+            exposure
+        </text>
+        <text font-size="12" x="-182.15453" y="351.48947" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_usefulness">
+            usefulness
+        </text>
+        <text font-size="12" x="-376.65463" y="202.23668" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_individual&apos;s">
+            individual&apos;s
+        </text>
+        <text font-size="12" x="117.66313" y="-181.0887" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_representation">
+            representation
+        </text>
+        <text font-size="12" x="-200.76869" y="-131.25392" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_decay">
+            decay
+        </text>
+        <text font-size="12" x="304.18146" y="-366.0892" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_weakness">
+            weakness
+        </text>
+        <text font-size="12" x="40.371204" y="-269.8716" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_unfortunately">
+            unfortunately
+        </text>
+        <text font-size="13" x="-437.0332" y="481.58807" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_opponent">
+            opponent
+        </text>
+        <text font-size="12" x="335.99243" y="108.683876" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_accounting">
+            accounting
+        </text>
+        <text font-size="12" x="-347.80438" y="-94.32748" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_accelerating">
+            accelerating
+        </text>
+        <text font-size="12" x="1.2160519" y="93.98252" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_attain">
+            attain
+        </text>
+        <text font-size="12" x="53.12792" y="-382.7839" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_diagnosis">
+            diagnosis
+        </text>
+        <text font-size="13" x="-103.70906" y="-399.22205" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_projection">
+            projection
+        </text>
+        <text font-size="12" x="-13.924603" y="247.70433" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_vastly">
+            vastly
+        </text>
+        <text font-size="13" x="-58.97514" y="-284.48895" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_conformity">
+            conformity
+        </text>
+        <text font-size="12" x="397.60736" y="-242.39278" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_tentative">
+            tentative
+        </text>
+        <text font-size="12" x="401.73865" y="282.172" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_dual">
+            dual
+        </text>
+        <text font-size="12" x="-411.78442" y="25.611675" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Realtors">
+            Realtors
+        </text>
+        <text font-size="12" x="-242.8296" y="-419.86942" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_1832">
+            1832
+        </text>
+        <text font-size="12" x="494.38287" y="444.25967" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_sundry">
+            sundry
+        </text>
+        <text font-size="12" x="-439.892" y="381.15344" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Students">
+            Students
+        </text>
+        <text font-size="12" x="-235.01988" y="-364.8469" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_settings">
+            settings
+        </text>
+        <text font-size="12" x="-396.8695" y="-435.05118" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_initiated">
+            initiated
+        </text>
+        <text font-size="12" x="-320.85974" y="-370.11258" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Religious">
+            Religious
+        </text>
+        <text font-size="12" x="-130.3105" y="-200.64717" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_recordings">
+            recordings
+        </text>
+        <text font-size="12" x="-358.764" y="63.8365" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_statesman">
+            statesman
+        </text>
+        <text font-size="12" x="205.86436" y="-377.24454" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_strengthened">
+            strengthened
+        </text>
+        <text font-size="12" x="458.31403" y="129.9281" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_deficiencies">
+            deficiencies
+        </text>
+        <text font-size="12" x="383.4757" y="-437.0975" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_esprit">
+            esprit
+        </text>
+        <text font-size="12" x="-143.68504" y="161.47038" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_diplomats">
+            diplomats
+        </text>
+        <text font-size="12" x="241.84349" y="-338.5461" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_traditionally">
+            traditionally
+        </text>
+        <text font-size="12" x="-276.36536" y="-145.81685" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Philosophy">
+            Philosophy
+        </text>
+        <text font-size="12" x="-106.67189" y="19.566265" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_athletics">
+            athletics
+        </text>
+        <text font-size="12" x="384.06006" y="206.59251" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_renaissance">
+            renaissance
+        </text>
+        <text font-size="12" x="-443.1065" y="-332.01974" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_participated">
+            participated
+        </text>
+        <text font-size="12" x="-204.16197" y="314.72513" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_reviews">
+            reviews
+        </text>
+        <text font-size="12" x="444.2834" y="212.91081" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_communism">
+            communism
+        </text>
+        <text font-size="12" x="-50.387188" y="177.79854" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Plato&apos;s">
+            Plato&apos;s
+        </text>
+        <text font-size="12" x="265.0036" y="379.45047" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_ideology">
+            ideology
+        </text>
+        <text font-size="12" x="-104.805466" y="-324.8453" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_coexistence">
+            coexistence
+        </text>
+        <text font-size="12" x="339.15454" y="-382.7441" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Utopian">
+            Utopian
+        </text>
+        <text font-size="12" x="-234.40266" y="-183.38924" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_liberalism">
+            liberalism
+        </text>
+        <text font-size="12" x="11.259112" y="-433.04324" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Whitehead">
+            Whitehead
+        </text>
+        <text font-size="12" x="-113.487656" y="309.3608" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_relate">
+            relate
+        </text>
+        <text font-size="12" x="43.58434" y="171.02464" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_painter">
+            painter
+        </text>
+        <text font-size="12" x="-439.64243" y="377.81473" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_romantic">
+            romantic
+        </text>
+        <text font-size="12" x="-65.945755" y="-257.53958" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_magnificent">
+            magnificent
+        </text>
+        <text font-size="12" x="396.2727" y="-360.43515" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_scholar">
+            scholar
+        </text>
+        <text font-size="13" x="-348.29382" y="293.12234" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_blessing">
+            blessing
+        </text>
+        <text font-size="12" x="120.90428" y="-324.36526" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Eve">
+            Eve
+        </text>
+        <text font-size="12" x="111.740585" y="-166.60652" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Southerner">
+            Southerner
+        </text>
+        <text font-size="12" x="-350.44757" y="-263.1268" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_resembles">
+            resembles
+        </text>
+        <text font-size="12" x="-177.43053" y="306.20987" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_genius">
+            genius
+        </text>
+        <text font-size="12" x="-176.77266" y="-199.18068" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_recalls">
+            recalls
+        </text>
+        <text font-size="12" x="-471.13208" y="159.8665" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_hymn">
+            hymn
+        </text>
+        <text font-size="12" x="-375.60956" y="-65.4269" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Holmes">
+            Holmes
+        </text>
+        <text font-size="13" x="347.48505" y="463.30197" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Love">
+            Love
+        </text>
+        <text font-size="12" x="-127.36943" y="-370.23306" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_revealing">
+            revealing
+        </text>
+        <text font-size="12" x="-152.82622" y="-261.65738" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Book">
+            Book
+        </text>
+        <text font-size="12" x="371.25446" y="449.66748" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_critic">
+            critic
+        </text>
+        <text font-size="12" x="-241.55235" y="501.97522" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Arnolphe">
+            Arnolphe
+        </text>
+        <text font-size="12" x="226.74419" y="-6.7956734" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Holy">
+            Holy
+        </text>
+        <text font-size="13" x="-483.5223" y="-241.80054" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_fascinating">
+            fascinating
+        </text>
+        <text font-size="13" x="-404.73615" y="-240.46548" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Utopia">
+            Utopia
+        </text>
+        <text font-size="12" x="-362.20905" y="409.91208" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_tells">
+            tells
+        </text>
+        <text font-size="12" x="423.87213" y="134.49971" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_gift">
+            gift
+        </text>
+        <text font-size="12" x="10.636157" y="-249.72688" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Jew">
+            Jew
+        </text>
+        <text font-size="12" x="-151.17491" y="224.27214" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_writer">
+            writer
+        </text>
+        <text font-size="12" x="-460.7681" y="-152.38728" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_actor">
+            actor
+        </text>
+        <text font-size="12" x="-210.67009" y="-184.08669" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_stories">
+            stories
+        </text>
+        <text font-size="12" x="223.71544" y="-201.29726" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_habit">
+            habit
+        </text>
+        <text font-size="12" x="-67.66368" y="217.45763" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_essay">
+            essay
+        </text>
+        <text font-size="12" x="-319.53925" y="391.62183" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_humor">
+            humor
+        </text>
+        <text font-size="12" x="-257.5702" y="207.78645" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_irony">
+            irony
+        </text>
+        <text font-size="12" x="311.53748" y="-188.54109" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_confession">
+            confession
+        </text>
+        <text font-size="12" x="350.6167" y="-266.52322" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_woman&apos;s">
+            woman&apos;s
+        </text>
+        <text font-size="12" x="-182.56789" y="-449.95828" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_remarked">
+            remarked
+        </text>
+        <text font-size="12" x="176.76848" y="413.75632" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Herr">
+            Herr
+        </text>
+        <text font-size="12" x="-486.24414" y="-307.08078" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_proud">
+            proud
+        </text>
+        <text font-size="13" x="-77.28264" y="246.19771" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Larkin">
+            Larkin
+        </text>
+        <text font-size="12" x="-39.485485" y="224.48424" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_salvation">
+            salvation
+        </text>
+        <text font-size="12" x="136.47502" y="279.44952" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_absurd">
+            absurd
+        </text>
+        <text font-size="12" x="-258.3825" y="-44.794758" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_grace">
+            grace
+        </text>
+        <text font-size="13" x="-107.230484" y="296.60336" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_deeper">
+            deeper
+        </text>
+        <text font-size="12" x="-157.34615" y="54.13017" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_sacred">
+            sacred
+        </text>
+        <text font-size="12" x="261.0741" y="-174.86446" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_mankind">
+            mankind
+        </text>
+        <text font-size="12" x="-33.433056" y="93.12748" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_humble">
+            humble
+        </text>
+        <text font-size="12" x="139.52727" y="60.698376" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_sin">
+            sin
+        </text>
+        <text font-size="12" x="299.70728" y="-173.5063" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_passion">
+            passion
+        </text>
+        <text font-size="12" x="-278.37885" y="448.1565" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_convinced">
+            convinced
+        </text>
+        <text font-size="12" x="-305.15088" y="-237.03798" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_understandable">
+            understandable
+        </text>
+        <text font-size="12" x="332.25946" y="-97.07101" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_contrary">
+            contrary
+        </text>
+        <text font-size="12" x="-26.896345" y="-115.18252" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_certainty">
+            certainty
+        </text>
+        <text font-size="12" x="-379.23392" y="-246.37422" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_implies">
+            implies
+        </text>
+        <text font-size="12" x="63.26665" y="-408.8749" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_virtue">
+            virtue
+        </text>
+        <text font-size="12" x="130.64873" y="-363.08017" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_paradox">
+            paradox
+        </text>
+        <text font-size="12" x="-5.012738" y="223.9517" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_rejects">
+            rejects
+        </text>
+        <text font-size="12" x="79.40117" y="-364.66983" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_hypothesis">
+            hypothesis
+        </text>
+        <text font-size="12" x="341.24854" y="161.80351" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_tendency">
+            tendency
+        </text>
+        <text font-size="12" x="-223.64738" y="20.455914" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_essence">
+            essence
+        </text>
+        <text font-size="12" x="-433.99982" y="-302.9894" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Aristotle&apos;s">
+            Aristotle&apos;s
+        </text>
+        <text font-size="12" x="482.5498" y="-15.606586" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_moreover">
+            moreover
+        </text>
+        <text font-size="12" x="-125.61409" y="491.60822" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_ultimately">
+            ultimately
+        </text>
+        <text font-size="12" x="-326.11603" y="-287.4407" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_genuinely">
+            genuinely
+        </text>
+        <text font-size="12" x="-414.13947" y="528.2976" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_sociology">
+            sociology
+        </text>
+        <text font-size="12" x="-392.848" y="143.56624" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_entails">
+            entails
+        </text>
+        <text font-size="12" x="-245.40872" y="58.478436" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_viewpoint">
+            viewpoint
+        </text>
+        <text font-size="12" x="-191.5341" y="-322.20682" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_render">
+            render
+        </text>
+        <text font-size="12" x="-253.10802" y="50.122906" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_termination">
+            termination
+        </text>
+        <text font-size="12" x="-395.59637" y="-34.681843" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_tensions">
+            tensions
+        </text>
+        <text font-size="12" x="-247.96225" y="181.10573" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Poetics">
+            Poetics
+        </text>
+        <text font-size="12" x="98.51866" y="-176.7632" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_non-violent">
+            non-violent
+        </text>
+        <text font-size="12" x="-249.33841" y="371.36624" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_nurse">
+            nurse
+        </text>
+        <text font-size="12" x="59.304432" y="123.35078" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_tastes">
+            tastes
+        </text>
+        <text font-size="12" x="294.03424" y="319.26382" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_who&apos;s">
+            who&apos;s
+        </text>
+        <text font-size="12" x="30.433764" y="316.5063" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_promising">
+            promising
+        </text>
+        <text font-size="12" x="-442.11862" y="386.07202" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Tommy">
+            Tommy
+        </text>
+        <text font-size="12" x="-399.9275" y="20.878521" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_blend">
+            blend
+        </text>
+        <text font-size="12" x="-474.0072" y="-407.10013" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_supposed">
+            supposed
+        </text>
+        <text font-size="13" x="173.29185" y="-136.47891" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_joke">
+            joke
+        </text>
+        <text font-size="12" x="-168.26945" y="314.8653" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_lucky">
+            lucky
+        </text>
+        <text font-size="12" x="-219.92" y="431.02396" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_cartoons">
+            cartoons
+        </text>
+        <text font-size="12" x="-260.3554" y="-413.4539" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Askington">
+            Askington
+        </text>
+        <text font-size="12" x="421.18134" y="-67.58474" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_promise">
+            promise
+        </text>
+        <text font-size="12" x="-15.245496" y="-272.5085" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_likes">
+            likes
+        </text>
+        <text font-size="12" x="204.96764" y="-262.0634" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_stubborn">
+            stubborn
+        </text>
+        <text font-size="12" x="-296.33923" y="247.64644" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_inspiring">
+            inspiring
+        </text>
+        <text font-size="12" x="60.772205" y="-332.99905" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_hasn&apos;t">
+            hasn&apos;t
+        </text>
+        <text font-size="12" x="489.49628" y="-293.0372" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_regret">
+            regret
+        </text>
+        <text font-size="12" x="127.59349" y="398.16843" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_hebephrenic">
+            hebephrenic
+        </text>
+        <text font-size="12" x="-318.1657" y="429.43008" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_pause">
+            pause
+        </text>
+        <text font-size="12" x="11.80379" y="-10.437641" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_goodness">
+            goodness
+        </text>
+        <text font-size="12" x="363.01776" y="-403.2822" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_positivist">
+            positivist
+        </text>
+        <text font-size="12" x="-16.527723" y="-7.29018" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_pretend">
+            pretend
+        </text>
+        <text font-size="12" x="173.97874" y="397.63083" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_immortal">
+            immortal
+        </text>
+        <text font-size="12" x="-161.8597" y="132.30202" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_linguist">
+            linguist
+        </text>
+        <text font-size="12" x="-14.534192" y="527.0017" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_panic">
+            panic
+        </text>
+        <text font-size="12" x="-410.63788" y="-3.3684278" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_rabbit">
+            rabbit
+        </text>
+        <text font-size="12" x="-335.29865" y="347.99246" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_foolish">
+            foolish
+        </text>
+        <text font-size="12" x="377.052" y="-391.642" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_disbelief">
+            disbelief
+        </text>
+        <text font-size="12" x="-337.1596" y="-365.08286" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Johnnie">
+            Johnnie
+        </text>
+        <text font-size="12" x="-22.346083" y="130.61806" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_devil">
+            devil
+        </text>
+        <text font-size="12" x="-84.79491" y="-244.98952" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Jubal">
+            Jubal
+        </text>
+        <text font-size="12" x="84.37761" y="353.28336" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_hears">
+            hears
+        </text>
+        <text font-size="12" x="-405.87964" y="-322.7482" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_bothering">
+            bothering
+        </text>
+        <text font-size="12" x="89.22081" y="-84.84988" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_sitter">
+            sitter
+        </text>
+        <text font-size="12" x="-416.72275" y="103.03791" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_upset">
+            upset
+        </text>
+        <text font-size="12" x="443.2243" y="-463.03806" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_sensible">
+            sensible
+        </text>
+    </g>
+</svg>

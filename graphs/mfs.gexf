@@ -1,0 +1,779 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>21/11/2018</lastmodified>
+    </meta>
+    <nodes>
+      <node id="science" label="science" />
+      <node id="fear" label="fear" />
+      <node id="climate" label="climate" />
+      <node id="liberty" label="liberty" />
+      <node id="justice" label="justice" />
+      <node id="culture" label="culture" />
+      <node id="money" label="money" />
+      <node id="environment" label="environment" />
+      <node id="freedom" label="freedom" />
+      <node id="people" label="people" />
+      <node id="change" label="change" />
+      <node id="scientist" label="scientist" />
+      <node id="politics" label="politics" />
+      <node id="hero" label="hero" />
+      <node id="story" label="story" />
+      <node id="truth" label="truth" />
+      <node id="lies" label="lies" />
+      <node id="good" label="good" />
+      <node id="bad" label="bad" />
+      <node id="to" label="to" />
+      <node id="and" label="and" />
+      <node id="is" label="is" />
+      <node id="the" label="the" />
+      <node id="for" label="for" />
+      <node id="with" label="with" />
+      <node id="Marching" label="Marching" />
+      <node id="of" label="of" />
+      <node id="in" label="in" />
+      <node id="rights." label="rights." />
+      <node id="our" label="our" />
+      <node id="are" label="are" />
+      <node id="We" label="We" />
+      <node id="you" label="you" />
+      <node id="Know" label="Know" />
+      <node id="at" label="at" />
+      <node id="today" label="today" />
+      <node id="a" label="a" />
+      <node id="we" label="we" />
+      <node id="this" label="this" />
+      <node id="MC…" label="MC…" />
+      <node id="less&quot;" label="less&quot;" />
+      <node id="less.&quot;" label="less.&quot;" />
+      <node id="ignorance…" label="ignorance…" />
+      <node id="populis…" label="populis…" />
+      <node id="findings." label="findings." />
+      <node id="less’" label="less’" />
+      <node id="hatred" label="hatred" />
+      <node id="truth." label="truth." />
+      <node id="ignorance," label="ignorance," />
+      <node id="Curie;" label="Curie;" />
+      <node id="polled" label="polled" />
+      <node id="represses" label="represses" />
+      <node id="again" label="again" />
+      <node id="triumph" label="triumph" />
+      <node id="them&quot;" label="them&quot;" />
+      <node id="stupidity" label="stupidity" />
+      <node id="pursued" label="pursued" />
+      <node id="Everyday!" label="Everyday!" />
+      <node id="chooses" label="chooses" />
+      <node id="change." label="change." />
+      <node id="human-induced" label="human-induced" />
+      <node id="policies…" label="policies…" />
+      <node id="skeptic" label="skeptic" />
+      <node id="dunno," label="dunno," />
+      <node id="impacting" label="impacting" />
+      <node id="change?'…" label="change?'…" />
+      <node id="carbon." label="carbon." />
+      <node id="action" label="action" />
+      <node id="Lansing:" label="Lansing:" />
+      <node id="firsthand" label="firsthand" />
+      <node id="denier." label="denier." />
+      <node id="denial," label="denial," />
+      <node id="HIV?'" label="HIV?'" />
+      <node id="aren't…" label="aren't…" />
+      <node id="disruption" label="disruption" />
+      <node id="stewardship!…" label="stewardship!…" />
+      <node id="danger." label="danger." />
+      <node id="latter." label="latter." />
+      <node id="hours," label="hours," />
+      <node id="debunking" label="debunking" />
+      <node id="quiet," label="quiet," />
+      <node id="They'd" label="They'd" />
+      <node id="Hadn't" label="Hadn't" />
+      <node id="Temp" label="Temp" />
+      <node id="articulate" label="articulate" />
+      <node id="desperate" label="desperate" />
+      <node id="geology," label="geology," />
+      <node id="Nuttiest" label="Nuttiest" />
+      <node id="own..." label="own..." />
+      <node id="buses" label="buses" />
+      <node id="iceberg" label="iceberg" />
+      <node id="imo," label="imo," />
+      <node id="Jong-Un" label="Jong-Un" />
+      <node id="Frustrated" label="Frustrated" />
+      <node id="dumbing" label="dumbing" />
+      <node id="extinction," label="extinction," />
+      <node id="roads" label="roads" />
+      <node id="be.&quot;" label="be.&quot;" />
+      <node id="reproductive" label="reproductive" />
+      <node id="rights," label="rights," />
+      <node id="Criminal" label="Criminal" />
+      <node id="justice." label="justice." />
+      <node id="racial" label="racial" />
+      <node id="corporates" label="corporates" />
+      <node id="literacy," label="literacy," />
+      <node id="relationships" label="relationships" />
+      <node id="construct" label="construct" />
+      <node id="economic" label="economic" />
+      <node id="waterboarding" label="waterboarding" />
+      <node id="reactive," label="reactive," />
+      <node id="social" label="social" />
+      <node id="economic," label="economic," />
+      <node id="health&amp;amp;" label="health&amp;amp;" />
+      <node id="testable" label="testable" />
+      <node id="justice!" label="justice!" />
+      <node id="sciences!" label="sciences!" />
+      <node id="voter" label="voter" />
+      <node id="crucial" label="crucial" />
+      <node id="Anthropologist" label="Anthropologist" />
+      <node id="icons?" label="icons?" />
+      <node id="bacteria." label="bacteria." />
+      <node id="Bacteria" label="Bacteria" />
+      <node id="Deal" label="Deal" />
+      <node id="gal" label="gal" />
+      <node id="pop" label="pop" />
+      <node id="truth!" label="truth!" />
+      <node id="resurgence" label="resurgence" />
+      <node id="Libs." label="Libs." />
+      <node id="Ain't" label="Ain't" />
+      <node id="desert." label="desert." />
+      <node id="Wow!!!" label="Wow!!!" />
+      <node id="have&quot;" label="have&quot;" />
+      <node id="sign!!" label="sign!!" />
+      <node id="Photographed" label="Photographed" />
+      <node id="Nope." label="Nope." />
+      <node id="periodically." label="periodically." />
+      <node id="Facts," label="Facts," />
+      <node id="Heartwarming." label="Heartwarming." />
+      <node id="happens" label="happens" />
+      <node id="though…" label="though…" />
+      <node id="health.&quot;" label="health.&quot;" />
+      <node id="saving" label="saving" />
+      <node id="Flint" label="Flint" />
+      <node id="crusade" label="crusade" />
+      <node id="mouth." label="mouth." />
+      <node id="health." label="health." />
+      <node id="inquire" label="inquire" />
+      <node id="buy!" label="buy!" />
+      <node id="wate…" label="wate…" />
+      <node id="Haiti" label="Haiti" />
+      <node id="stolen." label="stolen." />
+      <node id="fixing" label="fixing" />
+      <node id="invisible." label="invisible." />
+      <node id="do.Or" label="do.Or" />
+      <node id="healthcare," label="healthcare," />
+      <node id="paid.." label="paid.." />
+      <node id="infrastructure.." label="infrastructure.." />
+      <node id="Lubbock," label="Lubbock," />
+      <node id="heath" label="heath" />
+      <node id="connected!" label="connected!" />
+      <node id="prenatal" label="prenatal" />
+      <node id="animal," label="animal," />
+      <node id="health.…" label="health.…" />
+      <node id="congresspeople" label="congresspeople" />
+      <node id="beauty." label="beauty." />
+      <node id="privatize" label="privatize" />
+      <node id="Earth—let's" label="Earth—let's" />
+      <node id="save" label="save" />
+      <node id="environment.&quot;" label="environment.&quot;" />
+      <node id="well-being" label="well-being" />
+      <node id="humankind," label="humankind," />
+      <node id="provide.'" label="provide.'" />
+      <node id="oppression," label="oppression," />
+      <node id="whine" label="whine" />
+      <node id="you!)" label="you!)" />
+      <node id="society..." label="society..." />
+      <node id="environment&quot;" label="environment&quot;" />
+      <node id="environment." label="environment." />
+      <node id="prosperity" label="prosperity" />
+      <node id="pillar" label="pillar" />
+      <node id="prosperity." label="prosperity." />
+      <node id="progress," label="progress," />
+      <node id="champions" label="champions" />
+      <node id="freedom&amp;amp;prosperity" label="freedom&amp;amp;prosperity" />
+      <node id="itself&quot;?" label="itself&quot;?" />
+      <node id="Join:" label="Join:" />
+      <node id="human" label="human" />
+      <node id="if," label="if," />
+      <node id="robustly" label="robustly" />
+      <node id="PrakashLab" label="PrakashLab" />
+      <node id="dignity," label="dignity," />
+      <node id="HAPPENING" label="HAPPENING" />
+      <node id="southern" label="southern" />
+      <node id="slaughter" label="slaughter" />
+      <node id="Push" label="Push" />
+      <node id="planetary…" label="planetary…" />
+      <node id="suppprting" label="suppprting" />
+      <node id="Embassy" label="Embassy" />
+      <node id="Trondheim!" label="Trondheim!" />
+      <node id="world" label="world" />
+      <node id="all" label="all" />
+      <node id="over" label="over" />
+      <node id="Turns" label="Turns" />
+      <node id="Inauguration!!…" label="Inauguration!!…" />
+      <node id="out," label="out," />
+      <node id="On" label="On" />
+      <node id="Welcome" label="Welcome" />
+      <node id="important." label="important." />
+      <node id="Amazed" label="Amazed" />
+      <node id="championing" label="championing" />
+      <node id="NOOOOOO." label="NOOOOOO." />
+      <node id="People" label="People" />
+      <node id="TODAY," label="TODAY," />
+      <node id="QUESTION:" label="QUESTION:" />
+      <node id="real." label="real." />
+      <node id="Climate" label="Climate" />
+      <node id="biodiversity'" label="biodiversity'" />
+      <node id="reckless." label="reckless." />
+      <node id="now.&quot;" label="now.&quot;" />
+      <node id="inextricably" label="inextricably" />
+      <node id="denying" label="denying" />
+      <node id="effects" label="effects" />
+      <node id="real" label="real" />
+      <node id="linked." label="linked." />
+      <node id="Anthropogenic" label="Anthropogenic" />
+      <node id="deniers'" label="deniers'" />
+      <node id="Hydrocarbon" label="Hydrocarbon" />
+      <node id="Lessons" label="Lessons" />
+      <node id="like.&quot;" label="like.&quot;" />
+      <node id="like!&quot;" label="like!&quot;" />
+      <node id="big-name" label="big-name" />
+      <node id="DSM," label="DSM," />
+      <node id="Rican" label="Rican" />
+      <node id="sick." label="sick." />
+      <node id="ignored." label="ignored." />
+      <node id="socialism”" label="socialism”" />
+      <node id="reveals" label="reveals" />
+      <node id="Negroes" label="Negroes" />
+      <node id="Gaia" label="Gaia" />
+      <node id="Health:" label="Health:" />
+      <node id="why..." label="why..." />
+      <node id="Yue" label="Yue" />
+      <node id="Morrisville," label="Morrisville," />
+      <node id="Paqui" label="Paqui" />
+      <node id="citizen," label="citizen," />
+      <node id="EDF" label="EDF" />
+      <node id="lynched," label="lynched," />
+      <node id="Lmao" label="Lmao" />
+      <node id="apart" label="apart" />
+      <node id="ideology." label="ideology." />
+      <node id="stood" label="stood" />
+      <node id="time," label="time," />
+      <node id="materialist" label="materialist" />
+      <node id="synonym" label="synonym" />
+      <node id="identity" label="identity" />
+      <node id="postmodern" label="postmodern" />
+      <node id="cheap" label="cheap" />
+      <node id="inject" label="inject" />
+      <node id="isn’t" label="isn’t" />
+      <node id="puppets." label="puppets." />
+      <node id="regressive" label="regressive" />
+      <node id="long" label="long" />
+      <node id="go-the" label="go-the" />
+      <node id="Berman" label="Berman" />
+      <node id="broader" label="broader" />
+      <node id="see:" label="see:" />
+      <node id="any" label="any" />
+      <node id="troublesome." label="troublesome." />
+      <node id="unsung" label="unsung" />
+      <node id="milkshake" label="milkshake" />
+      <node id="ER" label="ER" />
+      <node id="volumes" label="volumes" />
+      <node id="Saving" label="Saving" />
+      <node id="Austria-Apr23" label="Austria-Apr23" />
+      <node id="Mitch" label="Mitch" />
+      <node id="inspiration," label="inspiration," />
+      <node id="Houston's" label="Houston's" />
+      <node id="pro…" label="pro…" />
+      <node id="THING" label="THING" />
+      <node id="apathy" label="apathy" />
+      <node id="St.Petersburg" label="St.Petersburg" />
+      <node id="ACST" label="ACST" />
+      <node id="Left." label="Left." />
+      <node id="partisan.&quot;" label="partisan.&quot;" />
+      <node id="next-level" label="next-level" />
+      <node id="speaks" label="speaks" />
+      <node id="days?" label="days?" />
+      <node id="corroborate" label="corroborate" />
+      <node id="Marathon:" label="Marathon:" />
+      <node id="statement)." label="statement)." />
+      <node id="Aaron" label="Aaron" />
+      <node id="cove…" label="cove…" />
+      <node id="Randy" label="Randy" />
+      <node id="Gus" label="Gus" />
+      <node id="Alphanso" label="Alphanso" />
+      <node id="experiences" label="experiences" />
+      <node id="Roundup" label="Roundup" />
+      <node id="untold" label="untold" />
+      <node id="Flattered" label="Flattered" />
+      <node id="Nice," label="Nice," />
+      <node id="quoted" label="quoted" />
+      <node id="INSPIRING" label="INSPIRING" />
+      <node id="diff" label="diff" />
+      <node id="Browse" label="Browse" />
+      <node id="Clovis," label="Clovis," />
+      <node id="Patrick" label="Patrick" />
+      <node id="daughter!" label="daughter!" />
+      <node id="shout" label="shout" />
+      <node id="Embrace" label="Embrace" />
+      <node id="there." label="there." />
+      <node id="Cherish" label="Cherish" />
+      <node id="Protect" label="Protect" />
+      <node id="those" label="those" />
+      <node id="it." label="it." />
+      <node id="pursuit" label="pursuit" />
+      <node id="out" label="out" />
+      <node id="approximation" label="approximation" />
+      <node id="interest." label="interest." />
+      <node id="A" label="A" />
+      <node id="who" label="who" />
+      <node id="Pres" label="Pres" />
+      <node id="aurora" label="aurora" />
+      <node id="act.&quot;" label="act.&quot;" />
+      <node id="stubborn," label="stubborn," />
+      <node id="Montréal" label="Montréal" />
+      <node id="The" label="The" />
+      <node id="SF!!" label="SF!!" />
+      <node id="fac…" label="fac…" />
+      <node id="president" label="president" />
+      <node id="removed!" label="removed!" />
+      <node id="conspiracies" label="conspiracies" />
+      <node id="scary" label="scary" />
+      <node id="Truth&quot;" label="Truth&quot;" />
+      <node id="FACTS" label="FACTS" />
+      <node id="spread.…" label="spread.…" />
+      <node id="frightening" label="frightening" />
+      <node id="King" label="King" />
+      <node id="spreads" label="spreads" />
+      <node id="Pandemic" label="Pandemic" />
+      <node id="questions," label="questions," />
+      <node id="stand?" label="stand?" />
+      <node id="socialism." label="socialism." />
+      <node id="protestors," label="protestors," />
+      <node id="facts.&quot;" label="facts.&quot;" />
+      <node id="steel" label="steel" />
+      <node id="scary.&quot;" label="scary.&quot;" />
+      <node id="shameful" label="shameful" />
+      <node id="one!" label="one!" />
+      <node id="amazing" label="amazing" />
+      <node id="How" label="How" />
+      <node id="many" label="many" />
+      <node id="There" label="There" />
+      <node id="number" label="number" />
+      <node id="fracking?" label="fracking?" />
+      <node id="Tower" label="Tower" />
+      <node id="here" label="here" />
+      <node id="Antonio." label="Antonio." />
+      <node id="signs" label="signs" />
+      <node id="thing" label="thing" />
+      <node id="signs?…" label="signs?…" />
+      <node id="scientif…" label="scientif…" />
+      <node id="typography" label="typography" />
+      <node id="it.'" label="it.'" />
+      <node id="kiddos" label="kiddos" />
+      <node id="indicator" label="indicator" />
+      <node id="quartz" label="quartz" />
+      <node id="company!" label="company!" />
+      <node id="Bad" label="Bad" />
+      <node id="die," label="die," />
+      <node id="policies." label="policies." />
+      <node id="Too" label="Too" />
+      <node id="rot" label="rot" />
+      <node id="ideas.“" label="ideas.“" />
+      <node id="humor…" label="humor…" />
+      <node id="Planned" label="Planned" />
+      <node id="Spotting" label="Spotting" />
+      <node id="when...White" label="when...White" />
+      <node id="spread," label="spread," />
+      <node id="hombres" label="hombres" />
+      <node id="bugs" label="bugs" />
+      <node id="Trier:" label="Trier:" />
+      <node id="Parenthood" label="Parenthood" />
+      <node id="stands" label="stands" />
+      <node id="divisiveness" label="divisiveness" />
+      <node id="characteristic" label="characteristic" />
+      <node id="AMAZING." label="AMAZING." />
+      <node id="protest?" label="protest?" />
+    </nodes>
+    <edges>
+      <edge id="0" source="science" target="to" />
+      <edge id="1" source="science" target="and" />
+      <edge id="2" source="science" target="is" />
+      <edge id="3" source="science" target="the" />
+      <edge id="4" source="science" target="for" />
+      <edge id="5" source="science" target="with" />
+      <edge id="6" source="science" target="Marching" />
+      <edge id="7" source="science" target="of" />
+      <edge id="8" source="science" target="in" />
+      <edge id="9" source="science" target="rights." />
+      <edge id="10" source="science" target="our" />
+      <edge id="11" source="science" target="are" />
+      <edge id="12" source="science" target="We" />
+      <edge id="13" source="science" target="you" />
+      <edge id="14" source="science" target="Know" />
+      <edge id="15" source="science" target="at" />
+      <edge id="16" source="science" target="today" />
+      <edge id="17" source="science" target="a" />
+      <edge id="18" source="science" target="we" />
+      <edge id="19" source="science" target="this" />
+      <edge id="20" source="fear" target="MC…" />
+      <edge id="21" source="fear" target="less&quot;" />
+      <edge id="22" source="fear" target="less.&quot;" />
+      <edge id="23" source="fear" target="ignorance…" />
+      <edge id="24" source="fear" target="populis…" />
+      <edge id="25" source="fear" target="findings." />
+      <edge id="26" source="fear" target="less’" />
+      <edge id="27" source="fear" target="hatred" />
+      <edge id="28" source="fear" target="truth." />
+      <edge id="29" source="fear" target="ignorance," />
+      <edge id="30" source="fear" target="Curie;" />
+      <edge id="31" source="fear" target="polled" />
+      <edge id="32" source="fear" target="represses" />
+      <edge id="33" source="fear" target="again" />
+      <edge id="34" source="fear" target="triumph" />
+      <edge id="35" source="fear" target="them&quot;" />
+      <edge id="36" source="fear" target="stupidity" />
+      <edge id="37" source="fear" target="pursued" />
+      <edge id="38" source="fear" target="Everyday!" />
+      <edge id="39" source="fear" target="chooses" />
+      <edge id="40" source="climate" target="change" />
+      <edge id="41" source="climate" target="change." />
+      <edge id="42" source="climate" target="human-induced" />
+      <edge id="43" source="climate" target="policies…" />
+      <edge id="44" source="climate" target="skeptic" />
+      <edge id="45" source="climate" target="dunno," />
+      <edge id="46" source="climate" target="impacting" />
+      <edge id="47" source="climate" target="change?'…" />
+      <edge id="48" source="climate" target="carbon." />
+      <edge id="49" source="climate" target="action" />
+      <edge id="50" source="climate" target="Lansing:" />
+      <edge id="51" source="climate" target="firsthand" />
+      <edge id="52" source="climate" target="denier." />
+      <edge id="53" source="climate" target="denial," />
+      <edge id="54" source="climate" target="HIV?'" />
+      <edge id="55" source="climate" target="aren't…" />
+      <edge id="56" source="climate" target="disruption" />
+      <edge id="57" source="climate" target="stewardship!…" />
+      <edge id="58" source="climate" target="danger." />
+      <edge id="59" source="climate" target="latter." />
+      <edge id="60" source="liberty" target="hours," />
+      <edge id="61" source="liberty" target="debunking" />
+      <edge id="62" source="liberty" target="quiet," />
+      <edge id="63" source="liberty" target="They'd" />
+      <edge id="64" source="liberty" target="Hadn't" />
+      <edge id="65" source="liberty" target="Temp" />
+      <edge id="66" source="liberty" target="articulate" />
+      <edge id="67" source="liberty" target="desperate" />
+      <edge id="68" source="liberty" target="geology," />
+      <edge id="69" source="liberty" target="Nuttiest" />
+      <edge id="70" source="liberty" target="own..." />
+      <edge id="71" source="liberty" target="buses" />
+      <edge id="72" source="liberty" target="iceberg" />
+      <edge id="73" source="liberty" target="imo," />
+      <edge id="74" source="liberty" target="Jong-Un" />
+      <edge id="75" source="liberty" target="Frustrated" />
+      <edge id="76" source="liberty" target="dumbing" />
+      <edge id="77" source="liberty" target="extinction," />
+      <edge id="78" source="liberty" target="roads" />
+      <edge id="79" source="liberty" target="be.&quot;" />
+      <edge id="80" source="justice" target="reproductive" />
+      <edge id="81" source="justice" target="rights," />
+      <edge id="82" source="justice" target="Criminal" />
+      <edge id="83" source="justice" target="justice." />
+      <edge id="84" source="justice" target="racial" />
+      <edge id="85" source="justice" target="corporates" />
+      <edge id="86" source="justice" target="literacy," />
+      <edge id="87" source="justice" target="relationships" />
+      <edge id="88" source="justice" target="construct" />
+      <edge id="89" source="justice" target="economic" />
+      <edge id="90" source="justice" target="waterboarding" />
+      <edge id="91" source="justice" target="reactive," />
+      <edge id="92" source="justice" target="social" />
+      <edge id="93" source="justice" target="economic," />
+      <edge id="94" source="justice" target="health&amp;amp;" />
+      <edge id="95" source="justice" target="testable" />
+      <edge id="96" source="justice" target="justice!" />
+      <edge id="97" source="justice" target="sciences!" />
+      <edge id="98" source="justice" target="voter" />
+      <edge id="99" source="justice" target="crucial" />
+      <edge id="100" source="culture" target="Anthropologist" />
+      <edge id="101" source="culture" target="icons?" />
+      <edge id="102" source="culture" target="bacteria." />
+      <edge id="103" source="culture" target="Bacteria" />
+      <edge id="104" source="culture" target="Deal" />
+      <edge id="105" source="culture" target="gal" />
+      <edge id="106" source="culture" target="pop" />
+      <edge id="107" source="culture" target="truth!" />
+      <edge id="108" source="culture" target="resurgence" />
+      <edge id="109" source="culture" target="Libs." />
+      <edge id="110" source="culture" target="Ain't" />
+      <edge id="111" source="culture" target="desert." />
+      <edge id="112" source="culture" target="Wow!!!" />
+      <edge id="113" source="culture" target="have&quot;" />
+      <edge id="114" source="culture" target="sign!!" />
+      <edge id="115" source="culture" target="Photographed" />
+      <edge id="116" source="culture" target="Nope." />
+      <edge id="117" source="culture" target="periodically." />
+      <edge id="118" source="culture" target="Facts," />
+      <edge id="119" source="culture" target="Heartwarming." />
+      <edge id="120" source="money" target="happens" />
+      <edge id="121" source="money" target="though…" />
+      <edge id="122" source="money" target="health.&quot;" />
+      <edge id="123" source="money" target="saving" />
+      <edge id="124" source="money" target="Flint" />
+      <edge id="125" source="money" target="crusade" />
+      <edge id="126" source="money" target="mouth." />
+      <edge id="127" source="money" target="health." />
+      <edge id="128" source="money" target="inquire" />
+      <edge id="129" source="money" target="buy!" />
+      <edge id="130" source="money" target="wate…" />
+      <edge id="131" source="money" target="Haiti" />
+      <edge id="132" source="money" target="stolen." />
+      <edge id="133" source="money" target="fixing" />
+      <edge id="134" source="money" target="invisible." />
+      <edge id="135" source="money" target="do.Or" />
+      <edge id="136" source="money" target="healthcare," />
+      <edge id="137" source="money" target="paid.." />
+      <edge id="138" source="money" target="infrastructure.." />
+      <edge id="139" source="money" target="Lubbock," />
+      <edge id="140" source="environment" target="heath" />
+      <edge id="141" source="environment" target="connected!" />
+      <edge id="142" source="environment" target="prenatal" />
+      <edge id="143" source="environment" target="animal," />
+      <edge id="144" source="environment" target="health.…" />
+      <edge id="145" source="environment" target="congresspeople" />
+      <edge id="146" source="environment" target="beauty." />
+      <edge id="147" source="environment" target="privatize" />
+      <edge id="148" source="environment" target="Earth—let's" />
+      <edge id="149" source="environment" target="save" />
+      <edge id="150" source="environment" target="environment.&quot;" />
+      <edge id="151" source="environment" target="well-being" />
+      <edge id="152" source="environment" target="humankind," />
+      <edge id="153" source="environment" target="provide.'" />
+      <edge id="154" source="environment" target="oppression," />
+      <edge id="155" source="environment" target="whine" />
+      <edge id="156" source="environment" target="you!)" />
+      <edge id="157" source="environment" target="society..." />
+      <edge id="158" source="environment" target="environment&quot;" />
+      <edge id="159" source="environment" target="environment." />
+      <edge id="160" source="freedom" target="prosperity" />
+      <edge id="161" source="freedom" target="pillar" />
+      <edge id="162" source="freedom" target="prosperity." />
+      <edge id="163" source="freedom" target="progress," />
+      <edge id="164" source="freedom" target="champions" />
+      <edge id="165" source="freedom" target="freedom&amp;amp;prosperity" />
+      <edge id="166" source="freedom" target="itself&quot;?" />
+      <edge id="167" source="freedom" target="Join:" />
+      <edge id="168" source="freedom" target="human" />
+      <edge id="169" source="freedom" target="if," />
+      <edge id="170" source="freedom" target="robustly" />
+      <edge id="171" source="freedom" target="PrakashLab" />
+      <edge id="172" source="freedom" target="dignity," />
+      <edge id="173" source="freedom" target="HAPPENING" />
+      <edge id="174" source="freedom" target="southern" />
+      <edge id="175" source="freedom" target="slaughter" />
+      <edge id="176" source="freedom" target="Push" />
+      <edge id="177" source="freedom" target="planetary…" />
+      <edge id="178" source="freedom" target="suppprting" />
+      <edge id="179" source="freedom" target="Embassy" />
+      <edge id="180" source="people" target="Trondheim!" />
+      <edge id="181" source="people" target="world" />
+      <edge id="182" source="people" target="all" />
+      <edge id="183" source="people" target="over" />
+      <edge id="184" source="people" target="Turns" />
+      <edge id="185" source="people" target="Inauguration!!…" />
+      <edge id="186" source="people" target="out," />
+      <edge id="187" source="people" target="On" />
+      <edge id="188" source="people" target="Welcome" />
+      <edge id="189" source="people" target="important." />
+      <edge id="190" source="people" target="the" />
+      <edge id="191" source="people" target="are" />
+      <edge id="192" source="people" target="Amazed" />
+      <edge id="193" source="people" target="championing" />
+      <edge id="194" source="people" target="you" />
+      <edge id="195" source="people" target="today" />
+      <edge id="196" source="people" target="NOOOOOO." />
+      <edge id="197" source="people" target="People" />
+      <edge id="198" source="people" target="TODAY," />
+      <edge id="199" source="people" target="QUESTION:" />
+      <edge id="200" source="change" target="real." />
+      <edge id="201" source="change" target="impacting" />
+      <edge id="202" source="change" target="Climate" />
+      <edge id="203" source="change" target="firsthand" />
+      <edge id="204" source="change" target="biodiversity'" />
+      <edge id="205" source="change" target="reckless." />
+      <edge id="206" source="change" target="denier." />
+      <edge id="207" source="change" target="now.&quot;" />
+      <edge id="208" source="change" target="inextricably" />
+      <edge id="209" source="change" target="latter." />
+      <edge id="210" source="change" target="denying" />
+      <edge id="211" source="change" target="effects" />
+      <edge id="212" source="change" target="real" />
+      <edge id="213" source="change" target="linked." />
+      <edge id="214" source="change" target="Anthropogenic" />
+      <edge id="215" source="change" target="deniers'" />
+      <edge id="216" source="change" target="dunno," />
+      <edge id="217" source="change" target="Hydrocarbon" />
+      <edge id="218" source="change" target="Lessons" />
+      <edge id="219" source="scientist" target="like.&quot;" />
+      <edge id="220" source="scientist" target="like!&quot;" />
+      <edge id="221" source="scientist" target="big-name" />
+      <edge id="222" source="scientist" target="DSM," />
+      <edge id="223" source="scientist" target="Rican" />
+      <edge id="224" source="scientist" target="sick." />
+      <edge id="225" source="scientist" target="ignored." />
+      <edge id="226" source="scientist" target="socialism”" />
+      <edge id="227" source="scientist" target="reveals" />
+      <edge id="228" source="scientist" target="Negroes" />
+      <edge id="229" source="scientist" target="Gaia" />
+      <edge id="230" source="scientist" target="Health:" />
+      <edge id="231" source="scientist" target="why..." />
+      <edge id="232" source="scientist" target="Yue" />
+      <edge id="233" source="scientist" target="Morrisville," />
+      <edge id="234" source="scientist" target="Paqui" />
+      <edge id="235" source="scientist" target="citizen," />
+      <edge id="236" source="scientist" target="EDF" />
+      <edge id="237" source="scientist" target="lynched," />
+      <edge id="238" source="scientist" target="Lmao" />
+      <edge id="239" source="politics" target="apart" />
+      <edge id="240" source="politics" target="ideology." />
+      <edge id="241" source="politics" target="stood" />
+      <edge id="242" source="politics" target="time," />
+      <edge id="243" source="politics" target="materialist" />
+      <edge id="244" source="politics" target="synonym" />
+      <edge id="245" source="politics" target="identity" />
+      <edge id="246" source="politics" target="postmodern" />
+      <edge id="247" source="politics" target="cheap" />
+      <edge id="248" source="politics" target="inject" />
+      <edge id="249" source="politics" target="isn’t" />
+      <edge id="250" source="politics" target="puppets." />
+      <edge id="251" source="politics" target="regressive" />
+      <edge id="252" source="politics" target="long" />
+      <edge id="253" source="politics" target="go-the" />
+      <edge id="254" source="politics" target="Berman" />
+      <edge id="255" source="politics" target="broader" />
+      <edge id="256" source="politics" target="see:" />
+      <edge id="257" source="politics" target="any" />
+      <edge id="258" source="politics" target="troublesome." />
+      <edge id="259" source="hero" target="unsung" />
+      <edge id="260" source="hero" target="milkshake" />
+      <edge id="261" source="hero" target="ER" />
+      <edge id="262" source="hero" target="like.&quot;" />
+      <edge id="263" source="hero" target="volumes" />
+      <edge id="264" source="hero" target="Saving" />
+      <edge id="265" source="hero" target="Austria-Apr23" />
+      <edge id="266" source="hero" target="Mitch" />
+      <edge id="267" source="hero" target="inspiration," />
+      <edge id="268" source="hero" target="Houston's" />
+      <edge id="269" source="hero" target="pro…" />
+      <edge id="270" source="hero" target="THING" />
+      <edge id="271" source="hero" target="apathy" />
+      <edge id="272" source="hero" target="St.Petersburg" />
+      <edge id="273" source="hero" target="ACST" />
+      <edge id="274" source="hero" target="Left." />
+      <edge id="275" source="hero" target="partisan.&quot;" />
+      <edge id="276" source="hero" target="next-level" />
+      <edge id="277" source="hero" target="speaks" />
+      <edge id="278" source="hero" target="days?" />
+      <edge id="279" source="story" target="corroborate" />
+      <edge id="280" source="story" target="Marathon:" />
+      <edge id="281" source="story" target="statement)." />
+      <edge id="282" source="story" target="Aaron" />
+      <edge id="283" source="story" target="cove…" />
+      <edge id="284" source="story" target="Randy" />
+      <edge id="285" source="story" target="Gus" />
+      <edge id="286" source="story" target="Alphanso" />
+      <edge id="287" source="story" target="experiences" />
+      <edge id="288" source="story" target="Roundup" />
+      <edge id="289" source="story" target="untold" />
+      <edge id="290" source="story" target="Flattered" />
+      <edge id="291" source="story" target="Nice," />
+      <edge id="292" source="story" target="quoted" />
+      <edge id="293" source="story" target="INSPIRING" />
+      <edge id="294" source="story" target="diff" />
+      <edge id="295" source="story" target="Browse" />
+      <edge id="296" source="story" target="Clovis," />
+      <edge id="297" source="story" target="Patrick" />
+      <edge id="298" source="story" target="daughter!" />
+      <edge id="299" source="truth" target="shout" />
+      <edge id="300" source="truth" target="Embrace" />
+      <edge id="301" source="truth" target="there." />
+      <edge id="302" source="truth" target="Cherish" />
+      <edge id="303" source="truth" target="Protect" />
+      <edge id="304" source="truth" target="those" />
+      <edge id="305" source="truth" target="it." />
+      <edge id="306" source="truth" target="pursuit" />
+      <edge id="307" source="truth" target="out" />
+      <edge id="308" source="truth" target="approximation" />
+      <edge id="309" source="truth" target="interest." />
+      <edge id="310" source="truth" target="A" />
+      <edge id="311" source="truth" target="who" />
+      <edge id="312" source="truth" target="Pres" />
+      <edge id="313" source="truth" target="aurora" />
+      <edge id="314" source="truth" target="act.&quot;" />
+      <edge id="315" source="truth" target="stubborn," />
+      <edge id="316" source="truth" target="Montréal" />
+      <edge id="317" source="truth" target="The" />
+      <edge id="318" source="truth" target="SF!!" />
+      <edge id="319" source="lies" target="fac…" />
+      <edge id="320" source="lies" target="president" />
+      <edge id="321" source="lies" target="removed!" />
+      <edge id="322" source="lies" target="conspiracies" />
+      <edge id="323" source="lies" target="scary" />
+      <edge id="324" source="lies" target="Truth&quot;" />
+      <edge id="325" source="lies" target="FACTS" />
+      <edge id="326" source="lies" target="spread.…" />
+      <edge id="327" source="lies" target="frightening" />
+      <edge id="328" source="lies" target="King" />
+      <edge id="329" source="lies" target="spreads" />
+      <edge id="330" source="lies" target="Pandemic" />
+      <edge id="331" source="lies" target="questions," />
+      <edge id="332" source="lies" target="stand?" />
+      <edge id="333" source="lies" target="socialism." />
+      <edge id="334" source="lies" target="protestors," />
+      <edge id="335" source="lies" target="facts.&quot;" />
+      <edge id="336" source="lies" target="steel" />
+      <edge id="337" source="lies" target="scary.&quot;" />
+      <edge id="338" source="lies" target="shameful" />
+      <edge id="339" source="good" target="one!" />
+      <edge id="340" source="good" target="amazing" />
+      <edge id="341" source="good" target="How" />
+      <edge id="342" source="good" target="many" />
+      <edge id="343" source="good" target="There" />
+      <edge id="344" source="good" target="number" />
+      <edge id="345" source="good" target="fracking?" />
+      <edge id="346" source="good" target="Tower" />
+      <edge id="347" source="good" target="here" />
+      <edge id="348" source="good" target="Antonio." />
+      <edge id="349" source="good" target="signs" />
+      <edge id="350" source="good" target="thing" />
+      <edge id="351" source="good" target="signs?…" />
+      <edge id="352" source="good" target="scientif…" />
+      <edge id="353" source="good" target="typography" />
+      <edge id="354" source="good" target="it.'" />
+      <edge id="355" source="good" target="kiddos" />
+      <edge id="356" source="good" target="indicator" />
+      <edge id="357" source="good" target="quartz" />
+      <edge id="358" source="good" target="company!" />
+      <edge id="359" source="bad" target="Bad" />
+      <edge id="360" source="bad" target="die," />
+      <edge id="361" source="bad" target="policies." />
+      <edge id="362" source="bad" target="Too" />
+      <edge id="363" source="bad" target="rot" />
+      <edge id="364" source="bad" target="ideas.“" />
+      <edge id="365" source="bad" target="humor…" />
+      <edge id="366" source="bad" target="Planned" />
+      <edge id="367" source="bad" target="Spotting" />
+      <edge id="368" source="bad" target="when...White" />
+      <edge id="369" source="bad" target="spread," />
+      <edge id="370" source="bad" target="hombres" />
+      <edge id="371" source="bad" target="bugs" />
+      <edge id="372" source="bad" target="Trier:" />
+      <edge id="373" source="bad" target="Parenthood" />
+      <edge id="374" source="bad" target="stands" />
+      <edge id="375" source="bad" target="divisiveness" />
+      <edge id="376" source="bad" target="characteristic" />
+      <edge id="377" source="bad" target="AMAZING." />
+      <edge id="378" source="bad" target="protest?" />
+    </edges>
+  </graph>
+</gexf>
