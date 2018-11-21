@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "My tensor",
+      "tensorShape": [
+        1000,
+        50
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/ndalton12/nlp-english-project/master/models/vectors/climate_tensor.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/ndalton12/nlp-english-project/master/models/vectors/climate_metadata.tsv"
+    }
+  ]
+}
