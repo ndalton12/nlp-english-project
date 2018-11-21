@@ -1,7 +1,7 @@
 import string
 import langid
 
-cleaned = open("../data/MarchForScience_tweets_cleaned.txt", "w+")
+cleaned = open("../data/cleaned/MarchForScience_tweets_cleaned.txt", "w+")
 
 with open('../data/MarchForScience_tweets.txt', 'r+') as f:
     for line in f.readlines():
