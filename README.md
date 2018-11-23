@@ -2,7 +2,8 @@
 This research project seeks to analyze the perception of science in culture. Techniques from NLP such as word embeddings (word2vec) and sentiment analysis are used. More specifically, this project is trying to exame what are the factors that affect the perception of science in our culture, how have those factors evolved over the last half century (or so), and why?
 
 ![Image of word embedding model](./images/animation/project_animation.gif)
-![Image of graph] (./images/graph_pics/climate_graph.png)
+
+![Image of graph](./images/graph_pics/climate_graph.png)
 
 ## Data
 The data for this project is not included in this repository due to restrictions on Twitter data. The two datasets used in this project are the widely available Brown corpus and Twitter data relating to #ClimateMarch and #MarchForScience hashtags. Roughly two million tweets were hydrated using twarc.
