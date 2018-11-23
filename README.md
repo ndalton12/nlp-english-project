@@ -3,8 +3,6 @@ This research project seeks to analyze the perception of science in culture. Tec
 
 ![Image of word embedding model](./images/animation/project_animation.gif)
 
-![Image of graph](./images/graph_pics/climate_graph.png)
-
 ## Data
 The data for this project is not included in this repository due to restrictions on Twitter data. The two datasets used in this project are the widely available Brown corpus and Twitter data relating to #ClimateMarch and #MarchForScience hashtags. Roughly two million tweets were hydrated using twarc.
 
