@@ -1,4 +1,4 @@
-# Science in Culture
+# Scienctific Truths are Not Self-Evident
 This research project seeks to analyze the perception of science in culture. Techniques from NLP such as word embeddings (word2vec) and sentiment analysis are used. More specifically, this project is trying to exame what are the factors that affect the perception of science in our culture, how have those factors evolved over the last half century (or so), and why?
 
 ## Data
