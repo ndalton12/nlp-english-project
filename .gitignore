@@ -3,3 +3,4 @@ data/
 ids/
 .ipynb_checkpoints/
 models/scattertext/
+scattertext-html/
